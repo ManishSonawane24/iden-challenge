@@ -1,1982 +1,2522 @@
 [
     {
         "ID": "0",
-        "Price": "$559.86",
-        "Description": "A premium, premium home & kitchen product. The Premium Home & Kitchen Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Home & Kitchen Plus",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-14",
-        "Score": "4.0"
-    },
-    {
-        "ID": "1",
-        "Price": "$66.48",
-        "Description": "A affordable, affordable health product. The Premium Health Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Health Lite",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-18",
-        "Score": "2.5"
-    },
-    {
-        "ID": "2",
-        "Price": "$644.71",
-        "Description": "A powerful, affordable health product. The Ultimate Health Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Health Pro",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-08",
-        "Score": "4.7"
-    },
-    {
-        "ID": "3",
-        "Price": "$530.83",
-        "Description": "A professional, durable garden product. The Budget Garden Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Garden Ultra",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-03-24",
+        "Price": "$207.17",
+        "Description": "A innovative, lightweight sports product. The Advanced Sports Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Sports Bundle",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-06",
         "Score": "2.3"
     },
     {
+        "ID": "1",
+        "Price": "$187.41",
+        "Description": "A high-quality, affordable health product. The Luxury Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Health Bundle",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-13",
+        "Score": "3.4"
+    },
+    {
+        "ID": "2",
+        "Price": "$825.13",
+        "Description": "A ergonomic, ergonomic home & kitchen product. The Classic Home & Kitchen Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Home & Kitchen Lite",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-10",
+        "Score": "3.7"
+    },
+    {
+        "ID": "3",
+        "Price": "$852.84",
+        "Description": "A portable, stylish office product. The Eco-friendly Office Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Office Bundle",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-01",
+        "Score": "2.0"
+    },
+    {
         "ID": "4",
-        "Price": "$452.70",
-        "Description": "A ergonomic, durable beauty product. The Modern Beauty Set is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Beauty Set",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-03-31",
-        "Score": "4.5"
+        "Price": "$835.87",
+        "Description": "A ergonomic, innovative clothing product. The Innovative Clothing Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Clothing Pro",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-15",
+        "Score": "4.6"
     },
     {
         "ID": "5",
-        "Price": "$75.67",
-        "Description": "A premium, innovative beauty product. The Premium Beauty Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Beauty Collection",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-03-29",
+        "Price": "$639.72",
+        "Description": "A ergonomic, premium toys product. The Advanced Toys Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Toys Solution",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-05",
         "Score": "3.5"
     },
     {
         "ID": "6",
-        "Price": "$375.98",
-        "Description": "A versatile, innovative clothing product. The Premium Clothing Set is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Clothing Set",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-03-27",
-        "Score": "3.6"
+        "Price": "$214.12",
+        "Description": "A professional, high-quality clothing product. The Budget Clothing Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Clothing Bundle",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-25",
+        "Score": "4.2"
     },
     {
         "ID": "7",
-        "Price": "$356.27",
-        "Description": "A eco-friendly, professional automotive product. The Eco-friendly Automotive Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Automotive Pro",
+        "Price": "$751.48",
+        "Description": "A professional, compact automotive product. The Eco-friendly Automotive Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Automotive Collection",
         "Brand": "QualityCraft",
-        "Last Updated": "2025-04-15",
-        "Score": "1.6"
+        "Last Updated": "2025-04-17",
+        "Score": "4.4"
     },
     {
         "ID": "8",
-        "Price": "$711.63",
-        "Description": "A powerful, portable automotive product. The Essential Automotive Series is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Automotive Series",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-20",
-        "Score": "1.1"
+        "Price": "$723.87",
+        "Description": "A stylish, powerful sports product. The Classic Sports Series is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Sports Series",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-08",
+        "Score": "2.6"
     },
     {
         "ID": "9",
-        "Price": "$117.14",
-        "Description": "A durable, eco-friendly sports product. The Budget Sports Series is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Sports Series",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-29",
-        "Score": "2.1"
+        "Price": "$152.55",
+        "Description": "A durable, innovative electronics product. The Advanced Electronics Device is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Electronics Device",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-20",
+        "Score": "1.3"
     },
     {
         "ID": "10",
-        "Price": "$122.44",
-        "Description": "A durable, portable automotive product. The Budget Automotive Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Automotive Collection",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-03-31",
-        "Score": "2.3"
+        "Price": "$894.11",
+        "Description": "A durable, ergonomic toys product. The Premium Toys Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Toys Pro",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-29",
+        "Score": "3.8"
     },
     {
         "ID": "11",
-        "Price": "$654.42",
-        "Description": "A innovative, eco-friendly office product. The Essential Office Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Office Pro",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-13",
-        "Score": "1.9"
-    },
-    {
-        "ID": "12",
-        "Price": "$579.58",
-        "Description": "A efficient, ergonomic health product. The Advanced Health Set is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Health Set",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-14",
-        "Score": "2.0"
-    },
-    {
-        "ID": "13",
-        "Price": "$499.99",
-        "Description": "A innovative, stylish clothing product. The Ultimate Clothing Package is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Clothing Package",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-15",
-        "Score": "1.5"
-    },
-    {
-        "ID": "14",
-        "Price": "$978.00",
-        "Description": "A compact, powerful clothing product. The Essential Clothing System is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Clothing System",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-13",
-        "Score": "3.1"
-    },
-    {
-        "ID": "15",
-        "Price": "$280.90",
-        "Description": "A professional, high-quality office product. The Essential Office System is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Office System",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-14",
-        "Score": "2.5"
-    },
-    {
-        "ID": "16",
-        "Price": "$225.15",
-        "Description": "A eco-friendly, high-quality clothing product. The Innovative Clothing Max is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Clothing Max",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-30",
-        "Score": "3.3"
-    },
-    {
-        "ID": "17",
-        "Price": "$101.01",
-        "Description": "A innovative, durable books product. The Luxury Books Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Books Collection",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-07",
-        "Score": "4.2"
-    },
-    {
-        "ID": "18",
-        "Price": "$868.40",
-        "Description": "A efficient, high-quality health product. The Modern Health Max is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Health Max",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-03-30",
+        "Price": "$891.03",
+        "Description": "A powerful, powerful books product. The Professional Books Max is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Books Max",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-20",
         "Score": "1.6"
     },
     {
-        "ID": "19",
-        "Price": "$486.92",
-        "Description": "A durable, efficient clothing product. The Essential Clothing Max is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Clothing Max",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-03-29",
-        "Score": "4.7"
-    },
-    {
-        "ID": "20",
-        "Price": "$464.78",
-        "Description": "A innovative, affordable electronics product. The Premium Electronics Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Electronics Pro",
+        "ID": "12",
+        "Price": "$924.90",
+        "Description": "A affordable, high-quality health product. The Professional Health Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Health Collection",
         "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-10",
-        "Score": "4.8"
+        "Last Updated": "2025-04-17",
+        "Score": "2.4"
     },
     {
-        "ID": "21",
-        "Price": "$657.34",
-        "Description": "A premium, versatile toys product. The Essential Toys Max is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Toys Max",
+        "ID": "13",
+        "Price": "$73.17",
+        "Description": "A high-quality, versatile sports product. The Portable Sports Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Sports Plus",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-12",
+        "Score": "1.1"
+    },
+    {
+        "ID": "14",
+        "Price": "$771.32",
+        "Description": "A innovative, stylish beauty product. The Essential Beauty Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Beauty Bundle",
         "Brand": "QualityCraft",
-        "Last Updated": "2025-04-22",
-        "Score": "1.9"
+        "Last Updated": "2025-04-15",
+        "Score": "1.2"
     },
     {
-        "ID": "22",
-        "Price": "$345.55",
-        "Description": "A professional, affordable office product. The Eco-friendly Office Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Office Solution",
+        "ID": "15",
+        "Price": "$459.04",
+        "Description": "A innovative, versatile clothing product. The Smart Clothing Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Clothing Solution",
         "Brand": "SuperProducts",
-        "Last Updated": "2025-04-14",
-        "Score": "3.0"
-    },
-    {
-        "ID": "23",
-        "Price": "$124.85",
-        "Description": "A eco-friendly, premium office product. The Portable Office Device is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Office Device",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-18",
-        "Score": "1.8"
-    },
-    {
-        "ID": "24",
-        "Price": "$14.05",
-        "Description": "A efficient, powerful toys product. The Luxury Toys Set is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Toys Set",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-03-24",
+        "Last Updated": "2025-03-31",
         "Score": "4.5"
     },
     {
-        "ID": "25",
-        "Price": "$18.64",
-        "Description": "A compact, portable electronics product. The Premium Electronics Package is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Electronics Package",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-08",
-        "Score": "4.0"
+        "ID": "16",
+        "Price": "$104.72",
+        "Description": "A eco-friendly, efficient electronics product. The Ultimate Electronics Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Electronics Tool",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-03",
+        "Score": "2.2"
     },
     {
-        "ID": "26",
-        "Price": "$525.23",
-        "Description": "A versatile, premium electronics product. The Portable Electronics Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Electronics Tool",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-18",
-        "Score": "2.6"
-    },
-    {
-        "ID": "27",
-        "Price": "$665.73",
-        "Description": "A affordable, durable toys product. The Deluxe Toys Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Toys Plus",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-01",
-        "Score": "4.1"
-    },
-    {
-        "ID": "28",
-        "Price": "$396.13",
-        "Description": "A stylish, lightweight beauty product. The Classic Beauty Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Beauty Ultra",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-28",
-        "Score": "4.2"
-    },
-    {
-        "ID": "29",
-        "Price": "$893.31",
-        "Description": "A affordable, professional garden product. The Premium Garden Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Garden Collection",
+        "ID": "17",
+        "Price": "$546.07",
+        "Description": "A professional, versatile clothing product. The Professional Clothing Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Clothing Lite",
         "Brand": "ValueCreators",
-        "Last Updated": "2025-03-30",
-        "Score": "5.0"
+        "Last Updated": "2025-04-07",
+        "Score": "1.4"
     },
     {
-        "ID": "30",
-        "Price": "$228.78",
-        "Description": "A efficient, professional office product. The Ultimate Office Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Office Ultra",
+        "ID": "18",
+        "Price": "$726.75",
+        "Description": "A high-quality, compact office product. The Deluxe Office Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Office Bundle",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-14",
+        "Score": "1.8"
+    },
+    {
+        "ID": "19",
+        "Price": "$974.76",
+        "Description": "A versatile, lightweight garden product. The Smart Garden Device is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Garden Device",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-07",
+        "Score": "2.3"
+    },
+    {
+        "ID": "20",
+        "Price": "$388.56",
+        "Description": "A efficient, compact health product. The Deluxe Health Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Health Ultra",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-22",
+        "Score": "1.3"
+    },
+    {
+        "ID": "21",
+        "Price": "$250.99",
+        "Description": "A durable, eco-friendly automotive product. The Modern Automotive Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Automotive Lite",
         "Brand": "InnovateTech",
-        "Last Updated": "2025-04-20",
-        "Score": "2.6"
+        "Last Updated": "2025-04-15",
+        "Score": "2.2"
     },
     {
-        "ID": "31",
-        "Price": "$150.28",
-        "Description": "A durable, portable automotive product. The Budget Automotive System is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Automotive System",
+        "ID": "22",
+        "Price": "$71.48",
+        "Description": "A affordable, lightweight health product. The Ultimate Health System is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Health System",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-04",
+        "Score": "4.4"
+    },
+    {
+        "ID": "23",
+        "Price": "$119.73",
+        "Description": "A lightweight, efficient electronics product. The Compact Electronics Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Electronics Lite",
         "Brand": "EliteMakers",
-        "Last Updated": "2025-03-25",
+        "Last Updated": "2025-04-01",
         "Score": "3.9"
     },
     {
-        "ID": "32",
-        "Price": "$288.56",
-        "Description": "A stylish, portable electronics product. The Eco-friendly Electronics Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Electronics Plus",
+        "ID": "24",
+        "Price": "$409.74",
+        "Description": "A compact, ergonomic garden product. The Classic Garden Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Garden Solution",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-02",
+        "Score": "1.6"
+    },
+    {
+        "ID": "25",
+        "Price": "$958.24",
+        "Description": "A affordable, ergonomic health product. The Luxury Health Device is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Health Device",
         "Brand": "TechCorp",
+        "Last Updated": "2025-04-11",
+        "Score": "3.7"
+    },
+    {
+        "ID": "26",
+        "Price": "$636.00",
+        "Description": "A lightweight, portable office product. The Professional Office Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Office Lite",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-06",
+        "Score": "1.2"
+    },
+    {
+        "ID": "27",
+        "Price": "$313.94",
+        "Description": "A ergonomic, durable health product. The Advanced Health Device is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Health Device",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-06",
+        "Score": "5.0"
+    },
+    {
+        "ID": "28",
+        "Price": "$888.75",
+        "Description": "A lightweight, compact office product. The Modern Office Set is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Office Set",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-02",
+        "Score": "3.9"
+    },
+    {
+        "ID": "29",
+        "Price": "$83.50",
+        "Description": "A affordable, innovative beauty product. The Luxury Beauty Package is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Beauty Package",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-07",
+        "Score": "3.3"
+    },
+    {
+        "ID": "30",
+        "Price": "$919.33",
+        "Description": "A efficient, versatile clothing product. The Advanced Clothing Max is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Clothing Max",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-03",
+        "Score": "3.8"
+    },
+    {
+        "ID": "31",
+        "Price": "$807.00",
+        "Description": "A powerful, affordable books product. The Portable Books Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Books Ultra",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-25",
+        "Score": "3.6"
+    },
+    {
+        "ID": "32",
+        "Price": "$381.14",
+        "Description": "A professional, efficient electronics product. The Compact Electronics Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Electronics Bundle",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-01",
+        "Score": "3.1"
+    },
+    {
+        "ID": "33",
+        "Price": "$588.33",
+        "Description": "A versatile, compact office product. The Portable Office Max is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Office Max",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-03-31",
+        "Score": "3.6"
+    },
+    {
+        "ID": "34",
+        "Price": "$473.24",
+        "Description": "A eco-friendly, premium health product. The Professional Health Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Health Collection",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-25",
+        "Score": "3.6"
+    },
+    {
+        "ID": "35",
+        "Price": "$862.73",
+        "Description": "A premium, premium clothing product. The Compact Clothing Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Clothing Kit",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-10",
+        "Score": "2.3"
+    },
+    {
+        "ID": "36",
+        "Price": "$707.07",
+        "Description": "A eco-friendly, lightweight books product. The Smart Books Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Books Bundle",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-07",
+        "Score": "1.1"
+    },
+    {
+        "ID": "37",
+        "Price": "$902.16",
+        "Description": "A efficient, lightweight books product. The Compact Books Set is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Books Set",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-01",
+        "Score": "4.5"
+    },
+    {
+        "ID": "38",
+        "Price": "$54.37",
+        "Description": "A durable, affordable toys product. The Compact Toys System is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Toys System",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-05",
+        "Score": "3.7"
+    },
+    {
+        "ID": "39",
+        "Price": "$431.59",
+        "Description": "A efficient, eco-friendly health product. The Premium Health Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Health Solution",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-07",
+        "Score": "5.0"
+    },
+    {
+        "ID": "40",
+        "Price": "$142.50",
+        "Description": "A stylish, affordable office product. The Eco-friendly Office Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Office Tool",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-15",
+        "Score": "2.3"
+    },
+    {
+        "ID": "41",
+        "Price": "$310.65",
+        "Description": "A versatile, powerful home & kitchen product. The Portable Home & Kitchen System is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Home & Kitchen System",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-24",
+        "Score": "3.9"
+    },
+    {
+        "ID": "42",
+        "Price": "$18.66",
+        "Description": "A efficient, efficient garden product. The Compact Garden Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Garden Collection",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-11",
+        "Score": "1.2"
+    },
+    {
+        "ID": "43",
+        "Price": "$392.71",
+        "Description": "A premium, compact sports product. The Compact Sports Set is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Sports Set",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-21",
+        "Score": "3.6"
+    },
+    {
+        "ID": "44",
+        "Price": "$444.47",
+        "Description": "A professional, efficient health product. The Budget Health Device is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Health Device",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-28",
+        "Score": "1.6"
+    },
+    {
+        "ID": "45",
+        "Price": "$383.94",
+        "Description": "A premium, portable home & kitchen product. The Professional Home & Kitchen Set is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Home & Kitchen Set",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-03",
+        "Score": "1.7"
+    },
+    {
+        "ID": "46",
+        "Price": "$841.50",
+        "Description": "A affordable, professional electronics product. The Budget Electronics Device is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Electronics Device",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-26",
+        "Score": "2.7"
+    },
+    {
+        "ID": "47",
+        "Price": "$783.49",
+        "Description": "A portable, stylish toys product. The Ultimate Toys Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Toys Tool",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-04",
+        "Score": "4.0"
+    },
+    {
+        "ID": "48",
+        "Price": "$408.17",
+        "Description": "A portable, durable sports product. The Ultimate Sports Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Sports Tool",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-18",
+        "Score": "4.2"
+    },
+    {
+        "ID": "49",
+        "Price": "$898.29",
+        "Description": "A versatile, ergonomic toys product. The Budget Toys Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Toys Kit",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-02",
+        "Score": "3.7"
+    },
+    {
+        "ID": "50",
+        "Price": "$609.43",
+        "Description": "A efficient, versatile sports product. The Premium Sports Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Sports Kit",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-23",
+        "Score": "2.3"
+    },
+    {
+        "ID": "51",
+        "Price": "$420.55",
+        "Description": "A innovative, professional health product. The Luxury Health Max is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Health Max",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-04",
+        "Score": "2.3"
+    },
+    {
+        "ID": "52",
+        "Price": "$783.66",
+        "Description": "A stylish, portable clothing product. The Ultimate Clothing Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Clothing Collection",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-09",
+        "Score": "3.3"
+    },
+    {
+        "ID": "53",
+        "Price": "$78.39",
+        "Description": "A premium, affordable clothing product. The Advanced Clothing Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Clothing Plus",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-01",
+        "Score": "1.7"
+    },
+    {
+        "ID": "54",
+        "Price": "$76.99",
+        "Description": "A compact, professional home & kitchen product. The Classic Home & Kitchen Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Home & Kitchen Plus",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-06",
+        "Score": "4.4"
+    },
+    {
+        "ID": "55",
+        "Price": "$337.28",
+        "Description": "A versatile, innovative beauty product. The Advanced Beauty Device is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Beauty Device",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-28",
+        "Score": "1.6"
+    },
+    {
+        "ID": "56",
+        "Price": "$507.17",
+        "Description": "A powerful, high-quality clothing product. The Deluxe Clothing Set is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Clothing Set",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-22",
+        "Score": "2.4"
+    },
+    {
+        "ID": "57",
+        "Price": "$985.28",
+        "Description": "A efficient, compact toys product. The Premium Toys Series is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Toys Series",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-14",
+        "Score": "3.8"
+    },
+    {
+        "ID": "58",
+        "Price": "$521.06",
+        "Description": "A eco-friendly, versatile electronics product. The Portable Electronics Package is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Electronics Package",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-10",
+        "Score": "3.2"
+    },
+    {
+        "ID": "59",
+        "Price": "$951.91",
+        "Description": "A professional, portable books product. The Essential Books Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Books Collection",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-15",
+        "Score": "1.2"
+    },
+    {
+        "ID": "60",
+        "Price": "$911.85",
+        "Description": "A affordable, portable beauty product. The Luxury Beauty Device is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Beauty Device",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-01",
+        "Score": "1.0"
+    },
+    {
+        "ID": "61",
+        "Price": "$160.93",
+        "Description": "A stylish, ergonomic clothing product. The Professional Clothing System is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Clothing System",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-28",
+        "Score": "2.0"
+    },
+    {
+        "ID": "62",
+        "Price": "$970.85",
+        "Description": "A stylish, powerful automotive product. The Deluxe Automotive Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Automotive Collection",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-17",
+        "Score": "1.1"
+    },
+    {
+        "ID": "63",
+        "Price": "$487.52",
+        "Description": "A innovative, compact office product. The Essential Office Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Office Collection",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-19",
+        "Score": "4.6"
+    },
+    {
+        "ID": "64",
+        "Price": "$89.51",
+        "Description": "A powerful, affordable books product. The Compact Books Package is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Books Package",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-12",
+        "Score": "2.5"
+    },
+    {
+        "ID": "65",
+        "Price": "$739.38",
+        "Description": "A lightweight, ergonomic garden product. The Ultimate Garden Device is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Garden Device",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-12",
+        "Score": "3.4"
+    },
+    {
+        "ID": "66",
+        "Price": "$721.60",
+        "Description": "A portable, durable home & kitchen product. The Essential Home & Kitchen Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Home & Kitchen Tool",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-12",
+        "Score": "2.2"
+    },
+    {
+        "ID": "67",
+        "Price": "$135.72",
+        "Description": "A affordable, innovative beauty product. The Eco-friendly Beauty Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Beauty Lite",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-20",
+        "Score": "4.2"
+    },
+    {
+        "ID": "68",
+        "Price": "$129.00",
+        "Description": "A ergonomic, lightweight toys product. The Advanced Toys Max is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Toys Max",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-17",
+        "Score": "2.8"
+    },
+    {
+        "ID": "69",
+        "Price": "$501.84",
+        "Description": "A affordable, durable books product. The Budget Books Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Books Tool",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-23",
+        "Score": "3.0"
+    },
+    {
+        "ID": "70",
+        "Price": "$670.81",
+        "Description": "A innovative, portable garden product. The Portable Garden Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Garden Ultra",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-01",
+        "Score": "2.8"
+    },
+    {
+        "ID": "71",
+        "Price": "$798.99",
+        "Description": "A affordable, ergonomic home & kitchen product. The Luxury Home & Kitchen Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Home & Kitchen Bundle",
+        "Brand": "ValueCreators",
         "Last Updated": "2025-04-20",
         "Score": "4.9"
     },
     {
-        "ID": "33",
-        "Price": "$366.37",
-        "Description": "A portable, professional office product. The Eco-friendly Office Package is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Office Package",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-04",
-        "Score": "1.8"
-    },
-    {
-        "ID": "34",
-        "Price": "$957.90",
-        "Description": "A portable, stylish beauty product. The Ultimate Beauty Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Beauty Tool",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-17",
-        "Score": "3.8"
-    },
-    {
-        "ID": "35",
-        "Price": "$892.20",
-        "Description": "A portable, high-quality home & kitchen product. The Modern Home & Kitchen Series is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Home & Kitchen Series",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-15",
-        "Score": "4.2"
-    },
-    {
-        "ID": "36",
-        "Price": "$75.58",
-        "Description": "A stylish, durable office product. The Eco-friendly Office Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Office Lite",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-20",
-        "Score": "3.8"
-    },
-    {
-        "ID": "37",
-        "Price": "$786.37",
-        "Description": "A durable, professional home & kitchen product. The Budget Home & Kitchen Device is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Home & Kitchen Device",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-03",
-        "Score": "1.6"
-    },
-    {
-        "ID": "38",
-        "Price": "$565.28",
-        "Description": "A efficient, efficient toys product. The Innovative Toys System is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Toys System",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-12",
-        "Score": "2.4"
-    },
-    {
-        "ID": "39",
-        "Price": "$158.16",
-        "Description": "A stylish, ergonomic garden product. The Professional Garden Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Garden Plus",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-05",
-        "Score": "4.5"
-    },
-    {
-        "ID": "40",
-        "Price": "$473.76",
-        "Description": "A portable, premium health product. The Premium Health Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Health Solution",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-18",
-        "Score": "2.9"
-    },
-    {
-        "ID": "41",
-        "Price": "$201.62",
-        "Description": "A professional, stylish automotive product. The Modern Automotive Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Automotive Plus",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-13",
-        "Score": "1.2"
-    },
-    {
-        "ID": "42",
-        "Price": "$506.32",
-        "Description": "A high-quality, stylish garden product. The Budget Garden Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Garden Bundle",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-22",
-        "Score": "3.7"
-    },
-    {
-        "ID": "43",
-        "Price": "$37.13",
-        "Description": "A efficient, professional toys product. The Budget Toys Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Toys Plus",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-07",
-        "Score": "3.1"
-    },
-    {
-        "ID": "44",
-        "Price": "$269.46",
-        "Description": "A eco-friendly, stylish home & kitchen product. The Innovative Home & Kitchen Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Home & Kitchen Bundle",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-20",
-        "Score": "1.5"
-    },
-    {
-        "ID": "45",
-        "Price": "$770.39",
-        "Description": "A versatile, powerful books product. The Classic Books Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Books Pro",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-15",
-        "Score": "3.4"
-    },
-    {
-        "ID": "46",
-        "Price": "$197.78",
-        "Description": "A ergonomic, stylish beauty product. The Compact Beauty Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Beauty Lite",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-13",
-        "Score": "3.9"
-    },
-    {
-        "ID": "47",
-        "Price": "$242.38",
-        "Description": "A portable, ergonomic automotive product. The Innovative Automotive Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Automotive Bundle",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-07",
-        "Score": "3.7"
-    },
-    {
-        "ID": "48",
-        "Price": "$757.54",
-        "Description": "A high-quality, efficient sports product. The Professional Sports Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Sports Collection",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-03",
-        "Score": "2.8"
-    },
-    {
-        "ID": "49",
-        "Price": "$460.11",
-        "Description": "A eco-friendly, innovative toys product. The Advanced Toys Series is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Toys Series",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-03-31",
-        "Score": "4.6"
-    },
-    {
-        "ID": "50",
-        "Price": "$906.14",
-        "Description": "A ergonomic, lightweight garden product. The Budget Garden Plus is designed for maximum performance and user satisfaction.",
+        "ID": "72",
+        "Price": "$58.09",
+        "Description": "A efficient, high-quality garden product. The Budget Garden Plus is designed for maximum performance and user satisfaction.",
         "Product": "Budget Garden Plus",
         "Brand": "PrecisionProducts",
-        "Last Updated": "2025-03-26",
-        "Score": "5.0"
-    },
-    {
-        "ID": "51",
-        "Price": "$348.65",
-        "Description": "A versatile, lightweight electronics product. The Budget Electronics Package is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Electronics Package",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-13",
-        "Score": "1.8"
-    },
-    {
-        "ID": "52",
-        "Price": "$336.44",
-        "Description": "A powerful, stylish toys product. The Luxury Toys Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Toys Solution",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-02",
-        "Score": "1.7"
-    },
-    {
-        "ID": "53",
-        "Price": "$168.57",
-        "Description": "A ergonomic, professional beauty product. The Classic Beauty Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Beauty Bundle",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-05",
-        "Score": "2.1"
-    },
-    {
-        "ID": "54",
-        "Price": "$162.08",
-        "Description": "A portable, stylish beauty product. The Deluxe Beauty Series is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Beauty Series",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-10",
-        "Score": "2.2"
-    },
-    {
-        "ID": "55",
-        "Price": "$21.08",
-        "Description": "A ergonomic, professional toys product. The Professional Toys Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Toys Ultra",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-03-27",
-        "Score": "2.4"
-    },
-    {
-        "ID": "56",
-        "Price": "$890.48",
-        "Description": "A portable, ergonomic automotive product. The Advanced Automotive Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Automotive Bundle",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-19",
-        "Score": "4.1"
-    },
-    {
-        "ID": "57",
-        "Price": "$408.99",
-        "Description": "A eco-friendly, affordable automotive product. The Modern Automotive Series is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Automotive Series",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-09",
-        "Score": "4.3"
-    },
-    {
-        "ID": "58",
-        "Price": "$881.50",
-        "Description": "A eco-friendly, portable health product. The Modern Health Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Health Ultra",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-09",
-        "Score": "3.5"
-    },
-    {
-        "ID": "59",
-        "Price": "$383.03",
-        "Description": "A professional, professional office product. The Modern Office Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Office Bundle",
-        "Brand": "InnovateTech",
         "Last Updated": "2025-04-04",
-        "Score": "3.2"
-    },
-    {
-        "ID": "60",
-        "Price": "$752.46",
-        "Description": "A professional, compact beauty product. The Essential Beauty Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Beauty Tool",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-13",
-        "Score": "1.4"
-    },
-    {
-        "ID": "61",
-        "Price": "$317.47",
-        "Description": "A durable, compact garden product. The Premium Garden Max is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Garden Max",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-03-29",
-        "Score": "4.0"
-    },
-    {
-        "ID": "62",
-        "Price": "$626.18",
-        "Description": "A durable, lightweight health product. The Classic Health System is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Health System",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-13",
-        "Score": "1.9"
-    },
-    {
-        "ID": "63",
-        "Price": "$928.44",
-        "Description": "A powerful, efficient electronics product. The Budget Electronics Max is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Electronics Max",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-08",
-        "Score": "2.2"
-    },
-    {
-        "ID": "64",
-        "Price": "$784.61",
-        "Description": "A versatile, efficient health product. The Eco-friendly Health Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Health Solution",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-14",
-        "Score": "3.2"
-    },
-    {
-        "ID": "65",
-        "Price": "$301.99",
-        "Description": "A durable, eco-friendly office product. The Premium Office Package is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Office Package",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-03-29",
-        "Score": "2.9"
-    },
-    {
-        "ID": "66",
-        "Price": "$765.49",
-        "Description": "A premium, efficient electronics product. The Professional Electronics Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Electronics Lite",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-19",
-        "Score": "1.3"
-    },
-    {
-        "ID": "67",
-        "Price": "$926.81",
-        "Description": "A compact, high-quality sports product. The Modern Sports Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Sports Tool",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-01",
-        "Score": "2.8"
-    },
-    {
-        "ID": "68",
-        "Price": "$748.33",
-        "Description": "A lightweight, portable office product. The Budget Office Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Office Kit",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-03-28",
-        "Score": "1.1"
-    },
-    {
-        "ID": "69",
-        "Price": "$356.22",
-        "Description": "A lightweight, affordable beauty product. The Smart Beauty Set is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Beauty Set",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-06",
         "Score": "2.4"
-    },
-    {
-        "ID": "70",
-        "Price": "$908.79",
-        "Description": "A lightweight, compact sports product. The Eco-friendly Sports Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Sports Bundle",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-15",
-        "Score": "3.7"
-    },
-    {
-        "ID": "71",
-        "Price": "$617.48",
-        "Description": "A innovative, eco-friendly electronics product. The Premium Electronics Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Electronics Bundle",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-18",
-        "Score": "2.6"
-    },
-    {
-        "ID": "72",
-        "Price": "$784.43",
-        "Description": "A innovative, portable books product. The Luxury Books Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Books Tool",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-03-24",
-        "Score": "3.0"
     },
     {
         "ID": "73",
-        "Price": "$986.13",
-        "Description": "A affordable, stylish office product. The Portable Office Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Office Kit",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-10",
-        "Score": "4.4"
+        "Price": "$175.45",
+        "Description": "A professional, innovative garden product. The Advanced Garden Set is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Garden Set",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-24",
+        "Score": "2.4"
     },
     {
         "ID": "74",
-        "Price": "$273.28",
-        "Description": "A portable, affordable home & kitchen product. The Classic Home & Kitchen Package is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Home & Kitchen Package",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-21",
-        "Score": "1.9"
+        "Price": "$654.13",
+        "Description": "A high-quality, durable home & kitchen product. The Classic Home & Kitchen Series is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Home & Kitchen Series",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-02",
+        "Score": "3.9"
     },
     {
         "ID": "75",
-        "Price": "$410.77",
-        "Description": "A stylish, high-quality sports product. The Eco-friendly Sports Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Sports Tool",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-03",
-        "Score": "1.2"
+        "Price": "$800.99",
+        "Description": "A durable, lightweight home & kitchen product. The Portable Home & Kitchen Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Home & Kitchen Collection",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-10",
+        "Score": "4.6"
     },
     {
         "ID": "76",
-        "Price": "$259.32",
-        "Description": "A ergonomic, premium books product. The Smart Books Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Books Tool",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-07",
-        "Score": "1.7"
+        "Price": "$172.50",
+        "Description": "A affordable, eco-friendly garden product. The Modern Garden Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Garden Collection",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-19",
+        "Score": "1.6"
     },
     {
         "ID": "77",
-        "Price": "$653.65",
-        "Description": "A stylish, lightweight sports product. The Innovative Sports Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Sports Collection",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-20",
-        "Score": "1.5"
+        "Price": "$708.33",
+        "Description": "A innovative, durable office product. The Advanced Office Series is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Office Series",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-08",
+        "Score": "1.0"
     },
     {
         "ID": "78",
-        "Price": "$361.41",
-        "Description": "A portable, powerful toys product. The Smart Toys Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Toys Lite",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-10",
-        "Score": "1.4"
+        "Price": "$282.92",
+        "Description": "A durable, innovative books product. The Essential Books Set is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Books Set",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-28",
+        "Score": "4.3"
     },
     {
         "ID": "79",
-        "Price": "$279.53",
-        "Description": "A innovative, professional office product. The Premium Office Series is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Office Series",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-08",
-        "Score": "2.0"
+        "Price": "$167.64",
+        "Description": "A versatile, innovative garden product. The Portable Garden Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Garden Pro",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-26",
+        "Score": "3.4"
     },
     {
         "ID": "80",
-        "Price": "$852.63",
-        "Description": "A affordable, eco-friendly electronics product. The Deluxe Electronics Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Electronics Plus",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-13",
-        "Score": "3.1"
+        "Price": "$581.64",
+        "Description": "A eco-friendly, stylish sports product. The Advanced Sports Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Sports Ultra",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-08",
+        "Score": "3.4"
     },
     {
         "ID": "81",
-        "Price": "$762.63",
-        "Description": "A premium, lightweight clothing product. The Luxury Clothing Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Clothing Kit",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-07",
-        "Score": "1.8"
+        "Price": "$175.40",
+        "Description": "A premium, efficient automotive product. The Premium Automotive Set is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Automotive Set",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-18",
+        "Score": "3.6"
     },
     {
         "ID": "82",
-        "Price": "$183.47",
-        "Description": "A professional, ergonomic health product. The Smart Health System is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Health System",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-03-29",
-        "Score": "3.7"
+        "Price": "$481.68",
+        "Description": "A premium, stylish electronics product. The Smart Electronics Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Electronics Kit",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-15",
+        "Score": "4.0"
     },
     {
         "ID": "83",
-        "Price": "$886.25",
-        "Description": "A stylish, stylish sports product. The Innovative Sports Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Sports Plus",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-16",
-        "Score": "2.6"
+        "Price": "$887.36",
+        "Description": "A efficient, portable books product. The Ultimate Books Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Books Lite",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-24",
+        "Score": "2.0"
     },
     {
         "ID": "84",
-        "Price": "$495.84",
-        "Description": "A affordable, efficient office product. The Eco-friendly Office System is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Office System",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-14",
-        "Score": "4.7"
+        "Price": "$582.25",
+        "Description": "A powerful, affordable clothing product. The Essential Clothing Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Clothing Collection",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-26",
+        "Score": "3.0"
     },
     {
         "ID": "85",
-        "Price": "$800.20",
-        "Description": "A high-quality, lightweight office product. The Premium Office Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Office Lite",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-03-28",
-        "Score": "3.5"
+        "Price": "$436.64",
+        "Description": "A professional, affordable office product. The Eco-friendly Office Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Office Tool",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-25",
+        "Score": "3.3"
     },
     {
         "ID": "86",
-        "Price": "$853.72",
-        "Description": "A ergonomic, affordable sports product. The Premium Sports Series is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Sports Series",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-02",
+        "Price": "$206.54",
+        "Description": "A durable, powerful electronics product. The Smart Electronics Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Electronics Ultra",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-22",
         "Score": "2.3"
     },
     {
         "ID": "87",
-        "Price": "$624.57",
-        "Description": "A lightweight, efficient office product. The Deluxe Office Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Office Pro",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-19",
-        "Score": "2.1"
+        "Price": "$239.72",
+        "Description": "A portable, versatile automotive product. The Essential Automotive Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Automotive Pro",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-01",
+        "Score": "4.6"
     },
     {
         "ID": "88",
-        "Price": "$656.83",
-        "Description": "A professional, professional clothing product. The Ultimate Clothing Series is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Clothing Series",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-13",
-        "Score": "3.1"
-    },
-    {
-        "ID": "89",
-        "Price": "$106.40",
-        "Description": "A affordable, lightweight sports product. The Classic Sports Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Sports Collection",
+        "Price": "$472.04",
+        "Description": "A professional, premium home & kitchen product. The Premium Home & Kitchen Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Home & Kitchen Pro",
         "Brand": "InnovateTech",
-        "Last Updated": "2025-04-18",
-        "Score": "4.6"
-    },
-    {
-        "ID": "90",
-        "Price": "$297.89",
-        "Description": "A powerful, ergonomic electronics product. The Advanced Electronics Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Electronics Kit",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-05",
-        "Score": "1.0"
-    },
-    {
-        "ID": "91",
-        "Price": "$624.11",
-        "Description": "A lightweight, high-quality garden product. The Professional Garden Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Garden Solution",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-11",
-        "Score": "2.8"
-    },
-    {
-        "ID": "92",
-        "Price": "$757.21",
-        "Description": "A affordable, innovative clothing product. The Essential Clothing Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Clothing Kit",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-03-26",
-        "Score": "1.2"
-    },
-    {
-        "ID": "93",
-        "Price": "$394.76",
-        "Description": "A portable, eco-friendly toys product. The Premium Toys Max is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Toys Max",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-09",
-        "Score": "3.0"
-    },
-    {
-        "ID": "94",
-        "Price": "$726.75",
-        "Description": "A affordable, high-quality automotive product. The Modern Automotive Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Automotive Pro",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-02",
-        "Score": "1.8"
-    },
-    {
-        "ID": "95",
-        "Price": "$953.70",
-        "Description": "A lightweight, affordable garden product. The Advanced Garden Max is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Garden Max",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-11",
-        "Score": "1.7"
-    },
-    {
-        "ID": "96",
-        "Price": "$719.41",
-        "Description": "A innovative, efficient automotive product. The Ultimate Automotive Series is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Automotive Series",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-03-27",
-        "Score": "3.6"
-    },
-    {
-        "ID": "97",
-        "Price": "$455.78",
-        "Description": "A premium, high-quality office product. The Essential Office Set is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Office Set",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-13",
-        "Score": "3.0"
-    },
-    {
-        "ID": "98",
-        "Price": "$244.95",
-        "Description": "A durable, durable clothing product. The Ultimate Clothing Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Clothing Tool",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-08",
-        "Score": "4.7"
-    },
-    {
-        "ID": "99",
-        "Price": "$658.43",
-        "Description": "A stylish, premium automotive product. The Premium Automotive Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Automotive Solution",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-17",
-        "Score": "2.8"
-    },
-    {
-        "ID": "100",
-        "Price": "$761.79",
-        "Description": "A powerful, stylish automotive product. The Modern Automotive Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Automotive Bundle",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-17",
-        "Score": "2.5"
-    },
-    {
-        "ID": "101",
-        "Price": "$673.57",
-        "Description": "A high-quality, lightweight books product. The Professional Books Device is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Books Device",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-31",
-        "Score": "4.7"
-    },
-    {
-        "ID": "102",
-        "Price": "$817.00",
-        "Description": "A innovative, efficient books product. The Ultimate Books Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Books Collection",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-03-30",
-        "Score": "2.6"
-    },
-    {
-        "ID": "103",
-        "Price": "$107.11",
-        "Description": "A eco-friendly, premium health product. The Modern Health Max is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Health Max",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-03-26",
-        "Score": "2.0"
-    },
-    {
-        "ID": "104",
-        "Price": "$838.60",
-        "Description": "A stylish, premium clothing product. The Smart Clothing Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Clothing Collection",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-03-28",
-        "Score": "1.1"
-    },
-    {
-        "ID": "105",
-        "Price": "$316.32",
-        "Description": "A stylish, ergonomic garden product. The Deluxe Garden Max is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Garden Max",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-22",
-        "Score": "2.1"
-    },
-    {
-        "ID": "106",
-        "Price": "$705.22",
-        "Description": "A affordable, professional beauty product. The Compact Beauty Series is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Beauty Series",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-07",
-        "Score": "4.3"
-    },
-    {
-        "ID": "107",
-        "Price": "$759.61",
-        "Description": "A stylish, lightweight clothing product. The Modern Clothing Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Clothing Solution",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-12",
-        "Score": "1.7"
-    },
-    {
-        "ID": "108",
-        "Price": "$646.04",
-        "Description": "A affordable, durable automotive product. The Portable Automotive Package is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Automotive Package",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-03-31",
-        "Score": "3.1"
-    },
-    {
-        "ID": "109",
-        "Price": "$768.23",
-        "Description": "A powerful, lightweight clothing product. The Budget Clothing Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Clothing Collection",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-14",
-        "Score": "1.1"
-    },
-    {
-        "ID": "110",
-        "Price": "$300.01",
-        "Description": "A eco-friendly, portable health product. The Advanced Health Set is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Health Set",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-07",
-        "Score": "3.4"
-    },
-    {
-        "ID": "111",
-        "Price": "$459.46",
-        "Description": "A efficient, premium clothing product. The Premium Clothing Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Clothing Bundle",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-22",
-        "Score": "4.0"
-    },
-    {
-        "ID": "112",
-        "Price": "$727.93",
-        "Description": "A high-quality, lightweight office product. The Classic Office Device is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Office Device",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-13",
-        "Score": "3.2"
-    },
-    {
-        "ID": "113",
-        "Price": "$93.35",
-        "Description": "A high-quality, ergonomic books product. The Ultimate Books Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Books Pro",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-01",
-        "Score": "3.7"
-    },
-    {
-        "ID": "114",
-        "Price": "$361.23",
-        "Description": "A durable, ergonomic sports product. The Portable Sports Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Sports Solution",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-05",
-        "Score": "4.6"
-    },
-    {
-        "ID": "115",
-        "Price": "$581.33",
-        "Description": "A premium, professional automotive product. The Modern Automotive Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Automotive Tool",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-04",
-        "Score": "3.4"
-    },
-    {
-        "ID": "116",
-        "Price": "$341.01",
-        "Description": "A stylish, versatile electronics product. The Advanced Electronics Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Electronics Pro",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-16",
-        "Score": "1.4"
-    },
-    {
-        "ID": "117",
-        "Price": "$797.86",
-        "Description": "A lightweight, compact electronics product. The Deluxe Electronics Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Electronics Plus",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-21",
-        "Score": "1.2"
-    },
-    {
-        "ID": "118",
-        "Price": "$940.37",
-        "Description": "A eco-friendly, efficient health product. The Deluxe Health Device is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Health Device",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-10",
-        "Score": "3.0"
-    },
-    {
-        "ID": "119",
-        "Price": "$73.35",
-        "Description": "A powerful, stylish clothing product. The Compact Clothing Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Clothing Bundle",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-14",
-        "Score": "3.3"
-    },
-    {
-        "ID": "120",
-        "Price": "$142.52",
-        "Description": "A portable, professional garden product. The Deluxe Garden Series is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Garden Series",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-03-30",
-        "Score": "3.0"
-    },
-    {
-        "ID": "121",
-        "Price": "$239.47",
-        "Description": "A powerful, affordable beauty product. The Compact Beauty Max is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Beauty Max",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-18",
-        "Score": "3.5"
-    },
-    {
-        "ID": "122",
-        "Price": "$678.90",
-        "Description": "A affordable, innovative electronics product. The Luxury Electronics Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Electronics Ultra",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-03-31",
-        "Score": "2.6"
-    },
-    {
-        "ID": "123",
-        "Price": "$574.58",
-        "Description": "A stylish, compact garden product. The Portable Garden Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Garden Bundle",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-19",
-        "Score": "1.1"
-    },
-    {
-        "ID": "124",
-        "Price": "$629.52",
-        "Description": "A stylish, ergonomic beauty product. The Budget Beauty Series is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Beauty Series",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-06",
-        "Score": "2.4"
-    },
-    {
-        "ID": "125",
-        "Price": "$478.85",
-        "Description": "A premium, high-quality electronics product. The Advanced Electronics Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Electronics Ultra",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-18",
-        "Score": "2.7"
-    },
-    {
-        "ID": "126",
-        "Price": "$455.32",
-        "Description": "A innovative, professional automotive product. The Compact Automotive Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Automotive Collection",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-10",
-        "Score": "3.7"
-    },
-    {
-        "ID": "127",
-        "Price": "$754.39",
-        "Description": "A portable, durable automotive product. The Deluxe Automotive Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Automotive Pro",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-03-31",
-        "Score": "1.3"
-    },
-    {
-        "ID": "128",
-        "Price": "$663.98",
-        "Description": "A compact, innovative sports product. The Eco-friendly Sports Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Sports Ultra",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-12",
+        "Last Updated": "2025-04-25",
         "Score": "3.8"
     },
     {
-        "ID": "129",
-        "Price": "$953.27",
-        "Description": "A innovative, stylish office product. The Portable Office Series is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Office Series",
+        "ID": "89",
+        "Price": "$349.72",
+        "Description": "A efficient, durable health product. The Deluxe Health Max is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Health Max",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-24",
+        "Score": "4.4"
+    },
+    {
+        "ID": "90",
+        "Price": "$787.19",
+        "Description": "A premium, compact electronics product. The Eco-friendly Electronics Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Electronics Ultra",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-15",
+        "Score": "4.7"
+    },
+    {
+        "ID": "91",
+        "Price": "$806.75",
+        "Description": "A versatile, efficient electronics product. The Portable Electronics Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Electronics Plus",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-10",
+        "Score": "3.2"
+    },
+    {
+        "ID": "92",
+        "Price": "$829.72",
+        "Description": "A compact, powerful electronics product. The Eco-friendly Electronics Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Electronics Tool",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-03",
+        "Score": "3.5"
+    },
+    {
+        "ID": "93",
+        "Price": "$584.82",
+        "Description": "A professional, powerful office product. The Professional Office Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Office Tool",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-08",
+        "Score": "3.9"
+    },
+    {
+        "ID": "94",
+        "Price": "$638.23",
+        "Description": "A professional, durable garden product. The Modern Garden Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Garden Pro",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-18",
+        "Score": "3.0"
+    },
+    {
+        "ID": "95",
+        "Price": "$54.61",
+        "Description": "A portable, stylish garden product. The Smart Garden Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Garden Plus",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-18",
+        "Score": "1.8"
+    },
+    {
+        "ID": "96",
+        "Price": "$920.99",
+        "Description": "A compact, versatile sports product. The Portable Sports System is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Sports System",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-03-31",
+        "Score": "2.5"
+    },
+    {
+        "ID": "97",
+        "Price": "$595.52",
+        "Description": "A lightweight, eco-friendly beauty product. The Smart Beauty Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Beauty Kit",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-27",
+        "Score": "3.3"
+    },
+    {
+        "ID": "98",
+        "Price": "$166.68",
+        "Description": "A compact, lightweight books product. The Deluxe Books Package is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Books Package",
         "Brand": "QualityCraft",
+        "Last Updated": "2025-04-23",
+        "Score": "2.8"
+    },
+    {
+        "ID": "99",
+        "Price": "$953.37",
+        "Description": "A professional, affordable automotive product. The Budget Automotive Set is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Automotive Set",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-29",
+        "Score": "3.5"
+    },
+    {
+        "ID": "100",
+        "Price": "$134.59",
+        "Description": "A innovative, eco-friendly garden product. The Advanced Garden Series is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Garden Series",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-22",
+        "Score": "1.7"
+    },
+    {
+        "ID": "101",
+        "Price": "$688.97",
+        "Description": "A innovative, stylish toys product. The Professional Toys Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Toys Solution",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-28",
+        "Score": "2.8"
+    },
+    {
+        "ID": "102",
+        "Price": "$59.10",
+        "Description": "A portable, compact toys product. The Advanced Toys Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Toys Pro",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-16",
+        "Score": "5.0"
+    },
+    {
+        "ID": "103",
+        "Price": "$931.37",
+        "Description": "A premium, lightweight sports product. The Modern Sports System is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Sports System",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-14",
+        "Score": "3.1"
+    },
+    {
+        "ID": "104",
+        "Price": "$826.55",
+        "Description": "A portable, eco-friendly books product. The Essential Books Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Books Lite",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-11",
+        "Score": "4.4"
+    },
+    {
+        "ID": "105",
+        "Price": "$61.62",
+        "Description": "A durable, durable office product. The Budget Office Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Office Ultra",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-24",
+        "Score": "1.2"
+    },
+    {
+        "ID": "106",
+        "Price": "$912.10",
+        "Description": "A eco-friendly, durable beauty product. The Budget Beauty Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Beauty Pro",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-18",
+        "Score": "1.9"
+    },
+    {
+        "ID": "107",
+        "Price": "$885.50",
+        "Description": "A eco-friendly, compact office product. The Innovative Office Package is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Office Package",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-03-31",
+        "Score": "1.5"
+    },
+    {
+        "ID": "108",
+        "Price": "$657.66",
+        "Description": "A powerful, portable office product. The Professional Office Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Office Tool",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-24",
+        "Score": "2.8"
+    },
+    {
+        "ID": "109",
+        "Price": "$629.05",
+        "Description": "A lightweight, affordable electronics product. The Advanced Electronics Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Electronics Tool",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-26",
+        "Score": "1.7"
+    },
+    {
+        "ID": "110",
+        "Price": "$936.55",
+        "Description": "A ergonomic, durable electronics product. The Luxury Electronics System is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Electronics System",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-07",
+        "Score": "3.5"
+    },
+    {
+        "ID": "111",
+        "Price": "$981.42",
+        "Description": "A durable, compact garden product. The Eco-friendly Garden Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Garden Plus",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-07",
+        "Score": "3.5"
+    },
+    {
+        "ID": "112",
+        "Price": "$957.42",
+        "Description": "A lightweight, professional books product. The Compact Books Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Books Solution",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-28",
+        "Score": "4.3"
+    },
+    {
+        "ID": "113",
+        "Price": "$652.25",
+        "Description": "A lightweight, ergonomic office product. The Compact Office Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Office Collection",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-03",
+        "Score": "4.2"
+    },
+    {
+        "ID": "114",
+        "Price": "$267.29",
+        "Description": "A durable, innovative home & kitchen product. The Luxury Home & Kitchen Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Home & Kitchen Solution",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-11",
+        "Score": "2.7"
+    },
+    {
+        "ID": "115",
+        "Price": "$72.39",
+        "Description": "A eco-friendly, premium health product. The Budget Health Set is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Health Set",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-27",
+        "Score": "2.5"
+    },
+    {
+        "ID": "116",
+        "Price": "$367.29",
+        "Description": "A eco-friendly, eco-friendly office product. The Ultimate Office System is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Office System",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-29",
+        "Score": "4.5"
+    },
+    {
+        "ID": "117",
+        "Price": "$371.14",
+        "Description": "A innovative, powerful beauty product. The Eco-friendly Beauty Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Beauty Lite",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-09",
+        "Score": "3.8"
+    },
+    {
+        "ID": "118",
+        "Price": "$704.91",
+        "Description": "A portable, professional garden product. The Compact Garden Set is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Garden Set",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-03-31",
+        "Score": "2.6"
+    },
+    {
+        "ID": "119",
+        "Price": "$669.49",
+        "Description": "A affordable, lightweight office product. The Advanced Office Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Office Solution",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-01",
+        "Score": "1.2"
+    },
+    {
+        "ID": "120",
+        "Price": "$975.91",
+        "Description": "A powerful, innovative home & kitchen product. The Deluxe Home & Kitchen System is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Home & Kitchen System",
+        "Brand": "TechCorp",
         "Last Updated": "2025-04-19",
-        "Score": "4.9"
+        "Score": "3.9"
+    },
+    {
+        "ID": "121",
+        "Price": "$81.00",
+        "Description": "A powerful, affordable clothing product. The Eco-friendly Clothing Max is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Clothing Max",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-05",
+        "Score": "1.9"
+    },
+    {
+        "ID": "122",
+        "Price": "$733.79",
+        "Description": "A high-quality, versatile garden product. The Eco-friendly Garden Device is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Garden Device",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-19",
+        "Score": "3.7"
+    },
+    {
+        "ID": "123",
+        "Price": "$923.88",
+        "Description": "A premium, compact books product. The Essential Books Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Books Plus",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-26",
+        "Score": "3.7"
+    },
+    {
+        "ID": "124",
+        "Price": "$960.07",
+        "Description": "A efficient, professional health product. The Essential Health Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Health Plus",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-07",
+        "Score": "2.2"
+    },
+    {
+        "ID": "125",
+        "Price": "$195.62",
+        "Description": "A efficient, affordable health product. The Deluxe Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Health Bundle",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-21",
+        "Score": "2.3"
+    },
+    {
+        "ID": "126",
+        "Price": "$106.97",
+        "Description": "A compact, ergonomic toys product. The Essential Toys Package is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Toys Package",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-14",
+        "Score": "2.2"
+    },
+    {
+        "ID": "127",
+        "Price": "$373.77",
+        "Description": "A eco-friendly, versatile beauty product. The Eco-friendly Beauty Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Beauty Kit",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-20",
+        "Score": "3.1"
+    },
+    {
+        "ID": "128",
+        "Price": "$266.51",
+        "Description": "A high-quality, powerful toys product. The Modern Toys System is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Toys System",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-04",
+        "Score": "4.1"
+    },
+    {
+        "ID": "129",
+        "Price": "$287.26",
+        "Description": "A powerful, affordable sports product. The Premium Sports Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Sports Lite",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-13",
+        "Score": "2.9"
     },
     {
         "ID": "130",
-        "Price": "$990.81",
-        "Description": "A versatile, portable garden product. The Smart Garden Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Garden Tool",
+        "Price": "$80.65",
+        "Description": "A versatile, high-quality health product. The Classic Health Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Health Collection",
         "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-25",
+        "Score": "2.8"
+    },
+    {
+        "ID": "131",
+        "Price": "$228.77",
+        "Description": "A versatile, professional beauty product. The Compact Beauty Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Beauty Kit",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-05",
+        "Score": "2.5"
+    },
+    {
+        "ID": "132",
+        "Price": "$128.77",
+        "Description": "A stylish, durable home & kitchen product. The Advanced Home & Kitchen Device is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Home & Kitchen Device",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-05",
+        "Score": "4.3"
+    },
+    {
+        "ID": "133",
+        "Price": "$962.78",
+        "Description": "A lightweight, stylish books product. The Premium Books Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Books Ultra",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-03-31",
+        "Score": "3.6"
+    },
+    {
+        "ID": "134",
+        "Price": "$954.85",
+        "Description": "A eco-friendly, lightweight clothing product. The Classic Clothing Series is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Clothing Series",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-01",
+        "Score": "3.5"
+    },
+    {
+        "ID": "135",
+        "Price": "$765.28",
+        "Description": "A powerful, high-quality home & kitchen product. The Luxury Home & Kitchen Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Home & Kitchen Tool",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-28",
+        "Score": "1.8"
+    },
+    {
+        "ID": "136",
+        "Price": "$639.24",
+        "Description": "A high-quality, eco-friendly health product. The Professional Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Health Bundle",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-07",
+        "Score": "4.2"
+    },
+    {
+        "ID": "137",
+        "Price": "$653.94",
+        "Description": "A portable, durable electronics product. The Ultimate Electronics Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Electronics Pro",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-06",
+        "Score": "2.7"
+    },
+    {
+        "ID": "138",
+        "Price": "$257.43",
+        "Description": "A innovative, eco-friendly health product. The Compact Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Health Bundle",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-18",
+        "Score": "1.5"
+    },
+    {
+        "ID": "139",
+        "Price": "$219.40",
+        "Description": "A stylish, professional health product. The Deluxe Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Health Bundle",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-17",
+        "Score": "4.4"
+    },
+    {
+        "ID": "140",
+        "Price": "$928.04",
+        "Description": "A powerful, high-quality health product. The Premium Health Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Health Solution",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-25",
+        "Score": "2.3"
+    },
+    {
+        "ID": "141",
+        "Price": "$192.42",
+        "Description": "A stylish, innovative automotive product. The Professional Automotive Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Automotive Plus",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-19",
+        "Score": "4.5"
+    },
+    {
+        "ID": "142",
+        "Price": "$69.19",
+        "Description": "A eco-friendly, innovative electronics product. The Innovative Electronics Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Electronics Ultra",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-20",
+        "Score": "1.8"
+    },
+    {
+        "ID": "143",
+        "Price": "$661.17",
+        "Description": "A powerful, compact automotive product. The Compact Automotive Series is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Automotive Series",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-09",
+        "Score": "4.7"
+    },
+    {
+        "ID": "144",
+        "Price": "$697.01",
+        "Description": "A lightweight, portable sports product. The Smart Sports Package is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Sports Package",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-26",
+        "Score": "1.9"
+    },
+    {
+        "ID": "145",
+        "Price": "$181.99",
+        "Description": "A compact, premium garden product. The Ultimate Garden Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Garden Lite",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-22",
+        "Score": "2.5"
+    },
+    {
+        "ID": "146",
+        "Price": "$407.05",
+        "Description": "A compact, durable health product. The Premium Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Health Bundle",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-25",
+        "Score": "2.7"
+    },
+    {
+        "ID": "147",
+        "Price": "$428.58",
+        "Description": "A high-quality, eco-friendly clothing product. The Portable Clothing Package is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Clothing Package",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-21",
+        "Score": "3.3"
+    },
+    {
+        "ID": "148",
+        "Price": "$35.03",
+        "Description": "A innovative, professional garden product. The Deluxe Garden Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Garden Plus",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-18",
+        "Score": "2.9"
+    },
+    {
+        "ID": "149",
+        "Price": "$142.27",
+        "Description": "A powerful, stylish home & kitchen product. The Smart Home & Kitchen Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Home & Kitchen Kit",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-03-31",
+        "Score": "1.4"
+    },
+    {
+        "ID": "150",
+        "Price": "$581.72",
+        "Description": "A versatile, efficient toys product. The Ultimate Toys Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Toys Solution",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-13",
+        "Score": "2.6"
+    },
+    {
+        "ID": "151",
+        "Price": "$812.41",
+        "Description": "A ergonomic, versatile beauty product. The Essential Beauty Package is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Beauty Package",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-25",
+        "Score": "2.5"
+    },
+    {
+        "ID": "152",
+        "Price": "$705.30",
+        "Description": "A high-quality, compact clothing product. The Professional Clothing Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Clothing Lite",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-02",
+        "Score": "4.4"
+    },
+    {
+        "ID": "153",
+        "Price": "$747.64",
+        "Description": "A lightweight, compact sports product. The Premium Sports Set is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Sports Set",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-27",
+        "Score": "1.6"
+    },
+    {
+        "ID": "154",
+        "Price": "$162.99",
+        "Description": "A professional, high-quality sports product. The Smart Sports Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Sports Pro",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-21",
+        "Score": "3.2"
+    },
+    {
+        "ID": "155",
+        "Price": "$611.59",
+        "Description": "A innovative, portable automotive product. The Innovative Automotive Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Automotive Tool",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-26",
+        "Score": "2.7"
+    },
+    {
+        "ID": "156",
+        "Price": "$448.01",
+        "Description": "A stylish, eco-friendly toys product. The Smart Toys Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Toys Bundle",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-14",
+        "Score": "4.1"
+    },
+    {
+        "ID": "157",
+        "Price": "$876.06",
+        "Description": "A compact, versatile books product. The Luxury Books Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Books Solution",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-03",
+        "Score": "2.9"
+    },
+    {
+        "ID": "158",
+        "Price": "$468.81",
+        "Description": "A professional, premium books product. The Compact Books Package is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Books Package",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-09",
+        "Score": "1.1"
+    },
+    {
+        "ID": "159",
+        "Price": "$511.74",
+        "Description": "A premium, high-quality beauty product. The Modern Beauty Set is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Beauty Set",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-09",
+        "Score": "1.6"
+    },
+    {
+        "ID": "160",
+        "Price": "$73.17",
+        "Description": "A compact, professional beauty product. The Smart Beauty Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Beauty Ultra",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-10",
+        "Score": "3.5"
+    },
+    {
+        "ID": "161",
+        "Price": "$732.84",
+        "Description": "A lightweight, efficient clothing product. The Modern Clothing System is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Clothing System",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-02",
+        "Score": "4.7"
+    },
+    {
+        "ID": "162",
+        "Price": "$291.24",
+        "Description": "A powerful, ergonomic health product. The Deluxe Health Series is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Health Series",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-21",
+        "Score": "2.8"
+    },
+    {
+        "ID": "163",
+        "Price": "$815.79",
+        "Description": "A stylish, innovative home & kitchen product. The Deluxe Home & Kitchen Max is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Home & Kitchen Max",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-17",
+        "Score": "4.8"
+    },
+    {
+        "ID": "164",
+        "Price": "$135.88",
+        "Description": "A innovative, stylish health product. The Eco-friendly Health Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Health Lite",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-21",
+        "Score": "1.4"
+    },
+    {
+        "ID": "165",
+        "Price": "$670.51",
+        "Description": "A lightweight, professional office product. The Luxury Office Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Office Plus",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-26",
+        "Score": "4.7"
+    },
+    {
+        "ID": "166",
+        "Price": "$354.95",
+        "Description": "A professional, lightweight health product. The Budget Health Max is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Health Max",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-20",
+        "Score": "2.7"
+    },
+    {
+        "ID": "167",
+        "Price": "$328.30",
+        "Description": "A durable, ergonomic office product. The Advanced Office Max is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Office Max",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-03",
+        "Score": "2.6"
+    },
+    {
+        "ID": "168",
+        "Price": "$111.60",
+        "Description": "A high-quality, professional office product. The Professional Office Series is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Office Series",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-03",
+        "Score": "1.2"
+    },
+    {
+        "ID": "169",
+        "Price": "$889.01",
+        "Description": "A premium, powerful books product. The Classic Books Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Books Collection",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-01",
+        "Score": "1.4"
+    },
+    {
+        "ID": "170",
+        "Price": "$649.66",
+        "Description": "A eco-friendly, premium beauty product. The Ultimate Beauty Max is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Beauty Max",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-02",
+        "Score": "1.7"
+    },
+    {
+        "ID": "171",
+        "Price": "$588.62",
+        "Description": "A powerful, affordable clothing product. The Eco-friendly Clothing Set is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Clothing Set",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-23",
+        "Score": "3.5"
+    },
+    {
+        "ID": "172",
+        "Price": "$283.66",
+        "Description": "A lightweight, versatile automotive product. The Classic Automotive Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Automotive Collection",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-22",
+        "Score": "2.0"
+    },
+    {
+        "ID": "173",
+        "Price": "$700.85",
+        "Description": "A innovative, efficient health product. The Smart Health Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Health Lite",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-07",
+        "Score": "2.3"
+    },
+    {
+        "ID": "174",
+        "Price": "$495.32",
+        "Description": "A stylish, professional garden product. The Smart Garden Package is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Garden Package",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-28",
+        "Score": "2.4"
+    },
+    {
+        "ID": "175",
+        "Price": "$976.94",
+        "Description": "A ergonomic, stylish beauty product. The Professional Beauty Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Beauty Ultra",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-15",
+        "Score": "4.7"
+    },
+    {
+        "ID": "176",
+        "Price": "$271.63",
+        "Description": "A ergonomic, affordable electronics product. The Luxury Electronics Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Electronics Kit",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-05",
+        "Score": "1.2"
+    },
+    {
+        "ID": "177",
+        "Price": "$258.26",
+        "Description": "A durable, ergonomic garden product. The Modern Garden Max is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Garden Max",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-24",
+        "Score": "2.9"
+    },
+    {
+        "ID": "178",
+        "Price": "$529.22",
+        "Description": "A eco-friendly, durable books product. The Portable Books Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Books Pro",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-03",
+        "Score": "1.4"
+    },
+    {
+        "ID": "179",
+        "Price": "$566.26",
+        "Description": "A premium, durable electronics product. The Luxury Electronics Set is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Electronics Set",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-03-31",
+        "Score": "3.2"
+    },
+    {
+        "ID": "180",
+        "Price": "$27.01",
+        "Description": "A professional, durable electronics product. The Compact Electronics Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Electronics Pro",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-14",
+        "Score": "2.8"
+    },
+    {
+        "ID": "181",
+        "Price": "$385.26",
+        "Description": "A lightweight, efficient garden product. The Smart Garden Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Garden Plus",
+        "Brand": "PrecisionProducts",
         "Last Updated": "2025-04-15",
         "Score": "4.9"
     },
     {
-        "ID": "131",
-        "Price": "$954.32",
-        "Description": "A eco-friendly, lightweight home & kitchen product. The Deluxe Home & Kitchen Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Home & Kitchen Pro",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-02",
-        "Score": "1.7"
-    },
-    {
-        "ID": "132",
-        "Price": "$447.76",
-        "Description": "A efficient, professional home & kitchen product. The Budget Home & Kitchen System is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Home & Kitchen System",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-03-27",
-        "Score": "3.7"
-    },
-    {
-        "ID": "133",
-        "Price": "$101.80",
-        "Description": "A professional, high-quality toys product. The Essential Toys Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Toys Bundle",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-03-31",
-        "Score": "1.9"
-    },
-    {
-        "ID": "134",
-        "Price": "$630.43",
-        "Description": "A powerful, innovative health product. The Premium Health Package is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Health Package",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-18",
-        "Score": "1.9"
-    },
-    {
-        "ID": "135",
-        "Price": "$922.55",
-        "Description": "A compact, durable electronics product. The Deluxe Electronics Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Electronics Tool",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-07",
-        "Score": "4.6"
-    },
-    {
-        "ID": "136",
-        "Price": "$373.72",
-        "Description": "A affordable, premium home & kitchen product. The Eco-friendly Home & Kitchen Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Home & Kitchen Tool",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-13",
-        "Score": "4.4"
-    },
-    {
-        "ID": "137",
-        "Price": "$977.98",
-        "Description": "A eco-friendly, innovative toys product. The Smart Toys Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Toys Collection",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-17",
-        "Score": "3.1"
-    },
-    {
-        "ID": "138",
-        "Price": "$728.40",
-        "Description": "A innovative, portable garden product. The Premium Garden Series is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Garden Series",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-17",
-        "Score": "3.0"
-    },
-    {
-        "ID": "139",
-        "Price": "$431.55",
-        "Description": "A lightweight, professional garden product. The Innovative Garden System is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Garden System",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-18",
-        "Score": "2.5"
-    },
-    {
-        "ID": "140",
-        "Price": "$665.65",
-        "Description": "A stylish, professional electronics product. The Essential Electronics System is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Electronics System",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-22",
-        "Score": "1.7"
-    },
-    {
-        "ID": "141",
-        "Price": "$80.63",
-        "Description": "A ergonomic, high-quality office product. The Deluxe Office Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Office Bundle",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-10",
-        "Score": "4.1"
-    },
-    {
-        "ID": "142",
-        "Price": "$689.62",
-        "Description": "A compact, efficient automotive product. The Classic Automotive Set is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Automotive Set",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-11",
-        "Score": "4.5"
-    },
-    {
-        "ID": "143",
-        "Price": "$717.46",
-        "Description": "A stylish, affordable books product. The Smart Books Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Books Tool",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-03-27",
-        "Score": "2.6"
-    },
-    {
-        "ID": "144",
-        "Price": "$877.40",
-        "Description": "A compact, powerful health product. The Budget Health System is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Health System",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-14",
-        "Score": "4.1"
-    },
-    {
-        "ID": "145",
-        "Price": "$506.77",
-        "Description": "A professional, innovative health product. The Deluxe Health Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Health Bundle",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-03-30",
-        "Score": "4.6"
-    },
-    {
-        "ID": "146",
-        "Price": "$444.73",
-        "Description": "A affordable, durable office product. The Essential Office Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Office Plus",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-21",
-        "Score": "2.8"
-    },
-    {
-        "ID": "147",
-        "Price": "$389.45",
-        "Description": "A efficient, lightweight office product. The Premium Office Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Office Solution",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-08",
-        "Score": "2.2"
-    },
-    {
-        "ID": "148",
-        "Price": "$179.02",
-        "Description": "A eco-friendly, durable automotive product. The Deluxe Automotive Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Automotive Tool",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-01",
-        "Score": "3.2"
-    },
-    {
-        "ID": "149",
-        "Price": "$725.59",
-        "Description": "A ergonomic, lightweight health product. The Ultimate Health Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Health Solution",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-18",
-        "Score": "3.9"
-    },
-    {
-        "ID": "150",
-        "Price": "$128.98",
-        "Description": "A portable, stylish garden product. The Smart Garden Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Garden Lite",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-30",
-        "Score": "1.8"
-    },
-    {
-        "ID": "151",
-        "Price": "$510.81",
-        "Description": "A ergonomic, durable automotive product. The Classic Automotive Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Automotive Lite",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-06",
-        "Score": "2.4"
-    },
-    {
-        "ID": "152",
-        "Price": "$415.14",
-        "Description": "A versatile, stylish books product. The Luxury Books Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Books Tool",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-09",
-        "Score": "1.2"
-    },
-    {
-        "ID": "153",
-        "Price": "$266.33",
-        "Description": "A ergonomic, stylish books product. The Classic Books Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Books Ultra",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-05",
-        "Score": "1.1"
-    },
-    {
-        "ID": "154",
-        "Price": "$816.45",
-        "Description": "A efficient, powerful toys product. The Professional Toys Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Toys Tool",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-04",
-        "Score": "3.0"
-    },
-    {
-        "ID": "155",
-        "Price": "$320.89",
-        "Description": "A powerful, eco-friendly health product. The Budget Health Set is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Health Set",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-04",
-        "Score": "2.0"
-    },
-    {
-        "ID": "156",
-        "Price": "$147.79",
-        "Description": "A innovative, efficient garden product. The Innovative Garden Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Garden Collection",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-22",
-        "Score": "2.2"
-    },
-    {
-        "ID": "157",
-        "Price": "$601.18",
-        "Description": "A ergonomic, stylish health product. The Eco-friendly Health Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Health Tool",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-11",
-        "Score": "4.4"
-    },
-    {
-        "ID": "158",
-        "Price": "$610.17",
-        "Description": "A affordable, innovative books product. The Eco-friendly Books Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Books Kit",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-11",
-        "Score": "1.2"
-    },
-    {
-        "ID": "159",
-        "Price": "$703.25",
-        "Description": "A efficient, efficient electronics product. The Modern Electronics Set is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Electronics Set",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-04",
-        "Score": "2.9"
-    },
-    {
-        "ID": "160",
-        "Price": "$520.31",
-        "Description": "A efficient, lightweight electronics product. The Modern Electronics Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Electronics Solution",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-03",
-        "Score": "2.0"
-    },
-    {
-        "ID": "161",
-        "Price": "$262.00",
-        "Description": "A efficient, high-quality garden product. The Eco-friendly Garden Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Garden Plus",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-11",
-        "Score": "4.9"
-    },
-    {
-        "ID": "162",
-        "Price": "$297.95",
-        "Description": "A innovative, compact electronics product. The Compact Electronics Package is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Electronics Package",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-18",
-        "Score": "3.0"
-    },
-    {
-        "ID": "163",
-        "Price": "$830.36",
-        "Description": "A premium, premium electronics product. The Innovative Electronics Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Electronics Lite",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-03",
-        "Score": "3.7"
-    },
-    {
-        "ID": "164",
-        "Price": "$84.86",
-        "Description": "A durable, innovative home & kitchen product. The Classic Home & Kitchen Set is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Home & Kitchen Set",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-13",
-        "Score": "4.1"
-    },
-    {
-        "ID": "165",
-        "Price": "$697.35",
-        "Description": "A affordable, premium health product. The Classic Health Package is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Health Package",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-03-26",
-        "Score": "1.5"
-    },
-    {
-        "ID": "166",
-        "Price": "$749.84",
-        "Description": "A professional, high-quality electronics product. The Ultimate Electronics Series is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Electronics Series",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-17",
-        "Score": "2.3"
-    },
-    {
-        "ID": "167",
-        "Price": "$419.23",
-        "Description": "A efficient, lightweight garden product. The Premium Garden Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Garden Collection",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-30",
-        "Score": "3.1"
-    },
-    {
-        "ID": "168",
-        "Price": "$397.41",
-        "Description": "A durable, durable electronics product. The Eco-friendly Electronics Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Electronics Bundle",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-01",
-        "Score": "4.4"
-    },
-    {
-        "ID": "169",
-        "Price": "$261.28",
-        "Description": "A portable, lightweight health product. The Essential Health Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Health Lite",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-09",
-        "Score": "4.1"
-    },
-    {
-        "ID": "170",
-        "Price": "$467.05",
-        "Description": "A premium, innovative beauty product. The Innovative Beauty Device is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Beauty Device",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-18",
-        "Score": "1.1"
-    },
-    {
-        "ID": "171",
-        "Price": "$874.60",
-        "Description": "A professional, premium clothing product. The Eco-friendly Clothing Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Clothing Plus",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-03-24",
-        "Score": "4.7"
-    },
-    {
-        "ID": "172",
-        "Price": "$397.36",
-        "Description": "A efficient, efficient electronics product. The Smart Electronics Set is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Electronics Set",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-02",
-        "Score": "4.3"
-    },
-    {
-        "ID": "173",
-        "Price": "$203.86",
-        "Description": "A powerful, ergonomic sports product. The Budget Sports Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Sports Plus",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-03",
-        "Score": "4.8"
-    },
-    {
-        "ID": "174",
-        "Price": "$958.62",
-        "Description": "A portable, portable sports product. The Classic Sports Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Sports Collection",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-17",
-        "Score": "3.7"
-    },
-    {
-        "ID": "175",
-        "Price": "$942.16",
-        "Description": "A versatile, portable clothing product. The Advanced Clothing Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Clothing Bundle",
-        "Brand": "InnovateTech",
-        "Last Updated": "2025-04-05",
-        "Score": "1.5"
-    },
-    {
-        "ID": "176",
-        "Price": "$946.24",
-        "Description": "A durable, innovative beauty product. The Portable Beauty Device is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Beauty Device",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-11",
-        "Score": "4.8"
-    },
-    {
-        "ID": "177",
-        "Price": "$42.77",
-        "Description": "A stylish, innovative health product. The Premium Health Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Health Kit",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-16",
-        "Score": "3.7"
-    },
-    {
-        "ID": "178",
-        "Price": "$207.79",
-        "Description": "A portable, portable home & kitchen product. The Innovative Home & Kitchen Package is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Home & Kitchen Package",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-12",
-        "Score": "2.7"
-    },
-    {
-        "ID": "179",
-        "Price": "$976.46",
-        "Description": "A affordable, portable toys product. The Advanced Toys Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Toys Plus",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-21",
-        "Score": "1.6"
-    },
-    {
-        "ID": "180",
-        "Price": "$136.37",
-        "Description": "A premium, ergonomic garden product. The Eco-friendly Garden Max is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Garden Max",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-02",
-        "Score": "1.7"
-    },
-    {
-        "ID": "181",
-        "Price": "$651.94",
-        "Description": "A stylish, durable office product. The Smart Office Set is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Office Set",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-13",
-        "Score": "4.8"
-    },
-    {
         "ID": "182",
-        "Price": "$859.38",
-        "Description": "A lightweight, lightweight sports product. The Essential Sports Tool is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Sports Tool",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-03-30",
-        "Score": "4.3"
+        "Price": "$211.66",
+        "Description": "A portable, compact sports product. The Luxury Sports Device is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Sports Device",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-02",
+        "Score": "4.1"
     },
     {
         "ID": "183",
-        "Price": "$987.80",
-        "Description": "A stylish, affordable garden product. The Modern Garden Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Garden Kit",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-06",
-        "Score": "4.1"
+        "Price": "$387.67",
+        "Description": "A versatile, innovative clothing product. The Deluxe Clothing Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Clothing Solution",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-07",
+        "Score": "3.4"
     },
     {
         "ID": "184",
-        "Price": "$509.81",
-        "Description": "A premium, stylish garden product. The Deluxe Garden Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Garden Ultra",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-13",
-        "Score": "1.9"
-    },
-    {
-        "ID": "185",
-        "Price": "$869.19",
-        "Description": "A efficient, lightweight office product. The Compact Office Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Office Ultra",
+        "Price": "$473.68",
+        "Description": "A durable, eco-friendly sports product. The Budget Sports Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Sports Solution",
         "Brand": "PrecisionProducts",
-        "Last Updated": "2025-03-24",
-        "Score": "1.9"
-    },
-    {
-        "ID": "186",
-        "Price": "$187.46",
-        "Description": "A professional, premium books product. The Smart Books Max is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Books Max",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-09",
-        "Score": "2.1"
-    },
-    {
-        "ID": "187",
-        "Price": "$901.71",
-        "Description": "A durable, versatile electronics product. The Classic Electronics Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Electronics Plus",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-08",
-        "Score": "3.6"
-    },
-    {
-        "ID": "188",
-        "Price": "$904.69",
-        "Description": "A versatile, powerful electronics product. The Professional Electronics System is designed for maximum performance and user satisfaction.",
-        "Product": "Professional Electronics System",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-12",
-        "Score": "4.1"
-    },
-    {
-        "ID": "189",
-        "Price": "$388.71",
-        "Description": "A lightweight, innovative garden product. The Modern Garden Series is designed for maximum performance and user satisfaction.",
-        "Product": "Modern Garden Series",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-03-25",
+        "Last Updated": "2025-04-25",
         "Score": "2.7"
     },
     {
+        "ID": "185",
+        "Price": "$607.34",
+        "Description": "A innovative, powerful office product. The Modern Office Set is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Office Set",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-16",
+        "Score": "2.9"
+    },
+    {
+        "ID": "186",
+        "Price": "$953.05",
+        "Description": "A compact, stylish toys product. The Portable Toys Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Toys Lite",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-02",
+        "Score": "4.7"
+    },
+    {
+        "ID": "187",
+        "Price": "$369.00",
+        "Description": "A compact, durable toys product. The Portable Toys System is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Toys System",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-01",
+        "Score": "2.4"
+    },
+    {
+        "ID": "188",
+        "Price": "$613.15",
+        "Description": "A stylish, portable health product. The Modern Health Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Health Tool",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-20",
+        "Score": "1.5"
+    },
+    {
+        "ID": "189",
+        "Price": "$628.38",
+        "Description": "A professional, compact automotive product. The Budget Automotive Package is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Automotive Package",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-20",
+        "Score": "4.7"
+    },
+    {
         "ID": "190",
-        "Price": "$339.98",
-        "Description": "A durable, durable office product. The Ultimate Office Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Office Plus",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-22",
-        "Score": "2.0"
+        "Price": "$66.37",
+        "Description": "A portable, efficient electronics product. The Compact Electronics Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Electronics Solution",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-03-31",
+        "Score": "1.2"
     },
     {
         "ID": "191",
-        "Price": "$468.61",
-        "Description": "A ergonomic, compact garden product. The Smart Garden Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Garden Kit",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-12",
-        "Score": "5.0"
+        "Price": "$335.42",
+        "Description": "A efficient, affordable toys product. The Smart Toys Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Toys Collection",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-02",
+        "Score": "1.5"
     },
     {
         "ID": "192",
-        "Price": "$663.45",
-        "Description": "A professional, stylish automotive product. The Ultimate Automotive Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Automotive Plus",
-        "Brand": "InnovateTech",
+        "Price": "$475.97",
+        "Description": "A efficient, durable home & kitchen product. The Smart Home & Kitchen Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Home & Kitchen Pro",
+        "Brand": "GlobalGoods",
         "Last Updated": "2025-04-03",
-        "Score": "2.2"
+        "Score": "4.2"
     },
     {
         "ID": "193",
-        "Price": "$819.39",
-        "Description": "A durable, innovative toys product. The Premium Toys System is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Toys System",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-03-27",
-        "Score": "2.5"
+        "Price": "$228.80",
+        "Description": "A stylish, powerful garden product. The Classic Garden Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Garden Kit",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-12",
+        "Score": "1.1"
     },
     {
         "ID": "194",
-        "Price": "$356.91",
-        "Description": "A eco-friendly, premium beauty product. The Budget Beauty Package is designed for maximum performance and user satisfaction.",
-        "Product": "Budget Beauty Package",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-03-31",
-        "Score": "1.7"
+        "Price": "$118.51",
+        "Description": "A ergonomic, durable health product. The Professional Health Device is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Health Device",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-21",
+        "Score": "1.3"
     },
     {
         "ID": "195",
-        "Price": "$167.70",
-        "Description": "A ergonomic, eco-friendly automotive product. The Classic Automotive Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Classic Automotive Solution",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-12",
-        "Score": "2.0"
+        "Price": "$286.45",
+        "Description": "A portable, versatile office product. The Deluxe Office Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Office Ultra",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-11",
+        "Score": "3.5"
     },
     {
         "ID": "196",
-        "Price": "$828.30",
-        "Description": "A compact, high-quality toys product. The Smart Toys Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Smart Toys Ultra",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-08",
+        "Price": "$422.43",
+        "Description": "A stylish, affordable garden product. The Innovative Garden Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Garden Tool",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-11",
         "Score": "3.5"
     },
     {
         "ID": "197",
-        "Price": "$519.55",
-        "Description": "A lightweight, compact electronics product. The Premium Electronics Set is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Electronics Set",
+        "Price": "$696.38",
+        "Description": "A versatile, affordable books product. The Classic Books Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Books Lite",
         "Brand": "TechCorp",
-        "Last Updated": "2025-04-05",
-        "Score": "1.8"
-    },
-    {
-        "ID": "198",
-        "Price": "$775.04",
-        "Description": "A ergonomic, versatile health product. The Eco-friendly Health Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Health Lite",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-03-31",
-        "Score": "3.1"
-    },
-    {
-        "ID": "199",
-        "Price": "$956.24",
-        "Description": "A portable, affordable garden product. The Eco-friendly Garden Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Eco-friendly Garden Ultra",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-03-29",
-        "Score": "1.4"
-    },
-    {
-        "ID": "200",
-        "Price": "$459.28",
-        "Description": "A portable, portable clothing product. The Essential Clothing Pro is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Clothing Pro",
-        "Brand": "PrecisionProducts",
-        "Last Updated": "2025-04-17",
-        "Score": "1.1"
-    },
-    {
-        "ID": "201",
-        "Price": "$318.94",
-        "Description": "A eco-friendly, premium office product. The Luxury Office Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Office Kit",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-10",
+        "Last Updated": "2025-04-21",
         "Score": "3.3"
     },
     {
+        "ID": "198",
+        "Price": "$965.03",
+        "Description": "A lightweight, professional toys product. The Professional Toys Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Toys Lite",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-02",
+        "Score": "4.2"
+    },
+    {
+        "ID": "199",
+        "Price": "$444.22",
+        "Description": "A stylish, stylish electronics product. The Deluxe Electronics Package is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Electronics Package",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-03",
+        "Score": "4.3"
+    },
+    {
+        "ID": "200",
+        "Price": "$391.67",
+        "Description": "A eco-friendly, affordable toys product. The Innovative Toys Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Toys Ultra",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-18",
+        "Score": "3.4"
+    },
+    {
+        "ID": "201",
+        "Price": "$367.70",
+        "Description": "A high-quality, lightweight books product. The Advanced Books Set is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Books Set",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-15",
+        "Score": "2.6"
+    },
+    {
         "ID": "202",
-        "Price": "$581.06",
-        "Description": "A durable, durable health product. The Innovative Health Ultra is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Health Ultra",
-        "Brand": "EliteMakers",
-        "Last Updated": "2025-04-20",
-        "Score": "1.3"
+        "Price": "$213.77",
+        "Description": "A durable, portable beauty product. The Deluxe Beauty Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Beauty Ultra",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-05",
+        "Score": "2.3"
     },
     {
         "ID": "203",
-        "Price": "$900.47",
-        "Description": "A portable, stylish automotive product. The Innovative Automotive Device is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Automotive Device",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-08",
-        "Score": "1.1"
+        "Price": "$513.97",
+        "Description": "A durable, compact garden product. The Essential Garden Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Garden Plus",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-12",
+        "Score": "2.4"
     },
     {
         "ID": "204",
-        "Price": "$842.30",
-        "Description": "A affordable, affordable toys product. The Advanced Toys System is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Toys System",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-06",
-        "Score": "4.0"
+        "Price": "$19.96",
+        "Description": "A stylish, affordable health product. The Portable Health Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Health Solution",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-26",
+        "Score": "2.6"
     },
     {
         "ID": "205",
-        "Price": "$269.87",
-        "Description": "A versatile, professional books product. The Advanced Books Device is designed for maximum performance and user satisfaction.",
-        "Product": "Advanced Books Device",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-14",
+        "Price": "$805.78",
+        "Description": "A innovative, innovative automotive product. The Premium Automotive Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Automotive Lite",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-25",
         "Score": "1.5"
     },
     {
         "ID": "206",
-        "Price": "$607.14",
-        "Description": "A high-quality, lightweight sports product. The Portable Sports Device is designed for maximum performance and user satisfaction.",
-        "Product": "Portable Sports Device",
-        "Brand": "ValueCreators",
-        "Last Updated": "2025-04-16",
-        "Score": "1.4"
+        "Price": "$71.04",
+        "Description": "A stylish, portable garden product. The Eco-friendly Garden System is designed for maximum performance and user satisfaction.",
+        "Product": "Eco-friendly Garden System",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-14",
+        "Score": "4.7"
     },
     {
         "ID": "207",
-        "Price": "$90.77",
-        "Description": "A affordable, eco-friendly beauty product. The Luxury Beauty Plus is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Beauty Plus",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-05",
-        "Score": "3.2"
+        "Price": "$69.18",
+        "Description": "A durable, professional garden product. The Classic Garden Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Garden Bundle",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-29",
+        "Score": "3.8"
     },
     {
         "ID": "208",
-        "Price": "$560.62",
-        "Description": "A efficient, ergonomic automotive product. The Luxury Automotive Solution is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Automotive Solution",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-04-09",
-        "Score": "3.8"
-    },
-    {
-        "ID": "209",
-        "Price": "$589.32",
-        "Description": "A innovative, ergonomic garden product. The Deluxe Garden Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Deluxe Garden Kit",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-03-27",
-        "Score": "3.4"
-    },
-    {
-        "ID": "210",
-        "Price": "$920.16",
-        "Description": "A professional, stylish office product. The Innovative Office Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Innovative Office Collection",
-        "Brand": "GlobalGoods",
+        "Price": "$814.79",
+        "Description": "A durable, efficient books product. The Budget Books Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Books Pro",
+        "Brand": "EliteMakers",
         "Last Updated": "2025-04-22",
-        "Score": "1.4"
-    },
-    {
-        "ID": "211",
-        "Price": "$969.69",
-        "Description": "A durable, stylish home & kitchen product. The Luxury Home & Kitchen Device is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Home & Kitchen Device",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-03-31",
-        "Score": "2.9"
-    },
-    {
-        "ID": "212",
-        "Price": "$886.42",
-        "Description": "A innovative, compact home & kitchen product. The Premium Home & Kitchen Max is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Home & Kitchen Max",
-        "Brand": "PrimeBrands",
-        "Last Updated": "2025-04-09",
         "Score": "2.0"
     },
     {
+        "ID": "209",
+        "Price": "$874.63",
+        "Description": "A high-quality, durable toys product. The Portable Toys Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Toys Bundle",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-27",
+        "Score": "2.9"
+    },
+    {
+        "ID": "210",
+        "Price": "$182.64",
+        "Description": "A efficient, stylish sports product. The Smart Sports Package is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Sports Package",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-20",
+        "Score": "3.4"
+    },
+    {
+        "ID": "211",
+        "Price": "$123.54",
+        "Description": "A lightweight, innovative toys product. The Modern Toys Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Toys Lite",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-28",
+        "Score": "2.7"
+    },
+    {
+        "ID": "212",
+        "Price": "$156.60",
+        "Description": "A premium, ergonomic health product. The Innovative Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Health Bundle",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-20",
+        "Score": "3.2"
+    },
+    {
         "ID": "213",
-        "Price": "$287.38",
-        "Description": "A professional, versatile automotive product. The Compact Automotive Series is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Automotive Series",
-        "Brand": "TechCorp",
-        "Last Updated": "2025-03-26",
-        "Score": "1.4"
+        "Price": "$785.80",
+        "Description": "A ergonomic, professional beauty product. The Essential Beauty Device is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Beauty Device",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-09",
+        "Score": "3.6"
     },
     {
         "ID": "214",
-        "Price": "$605.15",
-        "Description": "A versatile, innovative office product. The Premium Office System is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Office System",
-        "Brand": "SuperProducts",
-        "Last Updated": "2025-04-21",
-        "Score": "3.8"
+        "Price": "$768.34",
+        "Description": "A professional, eco-friendly garden product. The Smart Garden Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Garden Lite",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-10",
+        "Score": "1.2"
     },
     {
         "ID": "215",
-        "Price": "$96.32",
-        "Description": "A professional, premium toys product. The Premium Toys Kit is designed for maximum performance and user satisfaction.",
-        "Product": "Premium Toys Kit",
-        "Brand": "QualityCraft",
-        "Last Updated": "2025-04-10",
-        "Score": "2.1"
+        "Price": "$953.14",
+        "Description": "A professional, affordable automotive product. The Advanced Automotive Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Automotive Pro",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-19",
+        "Score": "2.3"
     },
     {
         "ID": "216",
-        "Price": "$420.86",
-        "Description": "A professional, high-quality electronics product. The Essential Electronics Collection is designed for maximum performance and user satisfaction.",
-        "Product": "Essential Electronics Collection",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-06",
-        "Score": "4.8"
+        "Price": "$551.49",
+        "Description": "A stylish, versatile sports product. The Premium Sports Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Sports Solution",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-16",
+        "Score": "4.5"
     },
     {
         "ID": "217",
-        "Price": "$899.24",
-        "Description": "A high-quality, ergonomic clothing product. The Ultimate Clothing Bundle is designed for maximum performance and user satisfaction.",
-        "Product": "Ultimate Clothing Bundle",
-        "Brand": "MegaManufacturing",
-        "Last Updated": "2025-04-21",
-        "Score": "4.9"
+        "Price": "$243.84",
+        "Description": "A versatile, powerful beauty product. The Innovative Beauty Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Beauty Pro",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-10",
+        "Score": "1.3"
     },
     {
         "ID": "218",
-        "Price": "$477.33",
-        "Description": "A eco-friendly, portable sports product. The Luxury Sports Device is designed for maximum performance and user satisfaction.",
-        "Product": "Luxury Sports Device",
-        "Brand": "GlobalGoods",
-        "Last Updated": "2025-04-07",
-        "Score": "4.6"
+        "Price": "$505.46",
+        "Description": "A premium, professional home & kitchen product. The Budget Home & Kitchen Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Home & Kitchen Tool",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-16",
+        "Score": "3.2"
     },
     {
         "ID": "219",
-        "Price": "$323.93",
-        "Description": "A professional, efficient home & kitchen product. The Compact Home & Kitchen Lite is designed for maximum performance and user satisfaction.",
-        "Product": "Compact Home & Kitchen Lite",
+        "Price": "$361.98",
+        "Description": "A ergonomic, professional clothing product. The Advanced Clothing Set is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Clothing Set",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-09",
+        "Score": "3.2"
+    },
+    {
+        "ID": "220",
+        "Price": "$962.02",
+        "Description": "A high-quality, premium electronics product. The Classic Electronics System is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Electronics System",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-25",
+        "Score": "3.1"
+    },
+    {
+        "ID": "221",
+        "Price": "$901.35",
+        "Description": "A professional, versatile beauty product. The Essential Beauty Set is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Beauty Set",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-29",
+        "Score": "2.9"
+    },
+    {
+        "ID": "222",
+        "Price": "$948.60",
+        "Description": "A affordable, high-quality health product. The Portable Health Max is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Health Max",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-26",
+        "Score": "2.0"
+    },
+    {
+        "ID": "223",
+        "Price": "$358.69",
+        "Description": "A lightweight, high-quality electronics product. The Compact Electronics Series is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Electronics Series",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-12",
+        "Score": "2.6"
+    },
+    {
+        "ID": "224",
+        "Price": "$575.20",
+        "Description": "A durable, eco-friendly sports product. The Professional Sports Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Sports Plus",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-21",
+        "Score": "3.9"
+    },
+    {
+        "ID": "225",
+        "Price": "$452.31",
+        "Description": "A premium, eco-friendly clothing product. The Modern Clothing Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Clothing Plus",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-15",
+        "Score": "3.6"
+    },
+    {
+        "ID": "226",
+        "Price": "$269.65",
+        "Description": "A innovative, high-quality electronics product. The Advanced Electronics Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Electronics Tool",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-04",
+        "Score": "1.3"
+    },
+    {
+        "ID": "227",
+        "Price": "$348.69",
+        "Description": "A versatile, versatile garden product. The Compact Garden Package is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Garden Package",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-04",
+        "Score": "3.7"
+    },
+    {
+        "ID": "228",
+        "Price": "$381.78",
+        "Description": "A eco-friendly, portable beauty product. The Budget Beauty Device is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Beauty Device",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-03",
+        "Score": "1.9"
+    },
+    {
+        "ID": "229",
+        "Price": "$345.98",
+        "Description": "A high-quality, affordable health product. The Classic Health Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Health Ultra",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-18",
+        "Score": "2.4"
+    },
+    {
+        "ID": "230",
+        "Price": "$256.88",
+        "Description": "A professional, high-quality health product. The Deluxe Health Bundle is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Health Bundle",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-28",
+        "Score": "1.1"
+    },
+    {
+        "ID": "231",
+        "Price": "$148.70",
+        "Description": "A professional, innovative sports product. The Innovative Sports Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Sports Plus",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-03-31",
+        "Score": "5.0"
+    },
+    {
+        "ID": "232",
+        "Price": "$817.11",
+        "Description": "A ergonomic, stylish clothing product. The Luxury Clothing System is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Clothing System",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-03",
+        "Score": "2.4"
+    },
+    {
+        "ID": "233",
+        "Price": "$519.89",
+        "Description": "A stylish, efficient office product. The Smart Office Set is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Office Set",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-08",
+        "Score": "2.8"
+    },
+    {
+        "ID": "234",
+        "Price": "$295.68",
+        "Description": "A versatile, innovative automotive product. The Innovative Automotive Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Automotive Lite",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-20",
+        "Score": "1.2"
+    },
+    {
+        "ID": "235",
+        "Price": "$908.99",
+        "Description": "A versatile, versatile automotive product. The Premium Automotive Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Premium Automotive Solution",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-05",
+        "Score": "2.0"
+    },
+    {
+        "ID": "236",
+        "Price": "$741.27",
+        "Description": "A compact, affordable toys product. The Portable Toys Series is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Toys Series",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-16",
+        "Score": "3.4"
+    },
+    {
+        "ID": "237",
+        "Price": "$909.15",
+        "Description": "A versatile, lightweight beauty product. The Innovative Beauty Package is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Beauty Package",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-18",
+        "Score": "2.6"
+    },
+    {
+        "ID": "238",
+        "Price": "$330.29",
+        "Description": "A lightweight, premium clothing product. The Budget Clothing Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Clothing Tool",
         "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-21",
+        "Score": "1.8"
+    },
+    {
+        "ID": "239",
+        "Price": "$935.25",
+        "Description": "A affordable, lightweight books product. The Luxury Books Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Books Kit",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-24",
+        "Score": "1.3"
+    },
+    {
+        "ID": "240",
+        "Price": "$206.08",
+        "Description": "A eco-friendly, compact office product. The Modern Office Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Office Pro",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-15",
+        "Score": "1.2"
+    },
+    {
+        "ID": "241",
+        "Price": "$416.44",
+        "Description": "A ergonomic, affordable books product. The Ultimate Books Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Books Collection",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-26",
+        "Score": "4.2"
+    },
+    {
+        "ID": "242",
+        "Price": "$771.35",
+        "Description": "A efficient, stylish home & kitchen product. The Innovative Home & Kitchen Series is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Home & Kitchen Series",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-16",
+        "Score": "2.5"
+    },
+    {
+        "ID": "243",
+        "Price": "$118.74",
+        "Description": "A eco-friendly, compact sports product. The Portable Sports System is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Sports System",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-19",
+        "Score": "4.5"
+    },
+    {
+        "ID": "244",
+        "Price": "$452.38",
+        "Description": "A innovative, ergonomic office product. The Portable Office Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Office Lite",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-14",
+        "Score": "4.2"
+    },
+    {
+        "ID": "245",
+        "Price": "$616.54",
+        "Description": "A eco-friendly, ergonomic sports product. The Portable Sports Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Sports Pro",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-16",
+        "Score": "2.5"
+    },
+    {
+        "ID": "246",
+        "Price": "$624.41",
+        "Description": "A lightweight, compact office product. The Modern Office Device is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Office Device",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-15",
+        "Score": "2.7"
+    },
+    {
+        "ID": "247",
+        "Price": "$492.18",
+        "Description": "A durable, durable toys product. The Smart Toys System is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Toys System",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-17",
+        "Score": "3.3"
+    },
+    {
+        "ID": "248",
+        "Price": "$99.75",
+        "Description": "A stylish, versatile sports product. The Essential Sports Max is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Sports Max",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-24",
+        "Score": "1.5"
+    },
+    {
+        "ID": "249",
+        "Price": "$463.94",
+        "Description": "A innovative, compact health product. The Budget Health Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Health Ultra",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-07",
+        "Score": "3.3"
+    },
+    {
+        "ID": "250",
+        "Price": "$351.63",
+        "Description": "A durable, versatile garden product. The Innovative Garden Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Garden Solution",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-04",
+        "Score": "1.1"
+    },
+    {
+        "ID": "251",
+        "Price": "$934.63",
+        "Description": "A ergonomic, powerful home & kitchen product. The Luxury Home & Kitchen Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Home & Kitchen Plus",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-07",
+        "Score": "4.3"
+    },
+    {
+        "ID": "252",
+        "Price": "$141.37",
+        "Description": "A powerful, efficient office product. The Smart Office System is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Office System",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-19",
+        "Score": "3.9"
+    },
+    {
+        "ID": "253",
+        "Price": "$856.79",
+        "Description": "A powerful, eco-friendly garden product. The Budget Garden Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Garden Lite",
+        "Brand": "InnovateTech",
+        "Last Updated": "2025-04-05",
+        "Score": "4.1"
+    },
+    {
+        "ID": "254",
+        "Price": "$904.52",
+        "Description": "A durable, high-quality toys product. The Smart Toys Set is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Toys Set",
+        "Brand": "GlobalGoods",
         "Last Updated": "2025-04-13",
+        "Score": "1.6"
+    },
+    {
+        "ID": "255",
+        "Price": "$781.58",
+        "Description": "A innovative, high-quality health product. The Compact Health Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Compact Health Pro",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-28",
+        "Score": "4.2"
+    },
+    {
+        "ID": "256",
+        "Price": "$597.32",
+        "Description": "A innovative, stylish books product. The Classic Books Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Books Collection",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-16",
+        "Score": "4.3"
+    },
+    {
+        "ID": "257",
+        "Price": "$929.37",
+        "Description": "A stylish, professional office product. The Advanced Office Solution is designed for maximum performance and user satisfaction.",
+        "Product": "Advanced Office Solution",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-17",
+        "Score": "3.5"
+    },
+    {
+        "ID": "258",
+        "Price": "$143.94",
+        "Description": "A stylish, portable clothing product. The Deluxe Clothing Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Clothing Pro",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-02",
+        "Score": "3.9"
+    },
+    {
+        "ID": "259",
+        "Price": "$678.03",
+        "Description": "A professional, lightweight electronics product. The Classic Electronics Kit is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Electronics Kit",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-18",
+        "Score": "1.7"
+    },
+    {
+        "ID": "260",
+        "Price": "$514.03",
+        "Description": "A portable, stylish home & kitchen product. The Essential Home & Kitchen Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Home & Kitchen Ultra",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-04",
+        "Score": "3.7"
+    },
+    {
+        "ID": "261",
+        "Price": "$94.55",
+        "Description": "A portable, lightweight beauty product. The Modern Beauty Set is designed for maximum performance and user satisfaction.",
+        "Product": "Modern Beauty Set",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-04-27",
+        "Score": "4.2"
+    },
+    {
+        "ID": "262",
+        "Price": "$977.90",
+        "Description": "A portable, eco-friendly clothing product. The Budget Clothing Series is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Clothing Series",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-08",
+        "Score": "1.1"
+    },
+    {
+        "ID": "263",
+        "Price": "$685.17",
+        "Description": "A premium, versatile electronics product. The Deluxe Electronics Package is designed for maximum performance and user satisfaction.",
+        "Product": "Deluxe Electronics Package",
+        "Brand": "SuperProducts",
+        "Last Updated": "2025-04-18",
+        "Score": "2.2"
+    },
+    {
+        "ID": "264",
+        "Price": "$361.49",
+        "Description": "A premium, durable books product. The Professional Books Max is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Books Max",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-18",
+        "Score": "4.4"
+    },
+    {
+        "ID": "265",
+        "Price": "$735.04",
+        "Description": "A eco-friendly, professional garden product. The Classic Garden Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Garden Lite",
+        "Brand": "TechCorp",
+        "Last Updated": "2025-04-20",
+        "Score": "3.9"
+    },
+    {
+        "ID": "266",
+        "Price": "$961.83",
+        "Description": "A efficient, powerful office product. The Ultimate Office Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Ultimate Office Plus",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-04-21",
+        "Score": "3.9"
+    },
+    {
+        "ID": "267",
+        "Price": "$493.14",
+        "Description": "A high-quality, efficient clothing product. The Smart Clothing Device is designed for maximum performance and user satisfaction.",
+        "Product": "Smart Clothing Device",
+        "Brand": "EliteMakers",
+        "Last Updated": "2025-03-31",
+        "Score": "2.0"
+    },
+    {
+        "ID": "268",
+        "Price": "$681.20",
+        "Description": "A affordable, stylish garden product. The Essential Garden Ultra is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Garden Ultra",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-24",
+        "Score": "1.3"
+    },
+    {
+        "ID": "269",
+        "Price": "$689.27",
+        "Description": "A ergonomic, innovative books product. The Essential Books Tool is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Books Tool",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-03",
+        "Score": "2.9"
+    },
+    {
+        "ID": "270",
+        "Price": "$596.10",
+        "Description": "A portable, affordable electronics product. The Luxury Electronics Max is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Electronics Max",
+        "Brand": "GlobalGoods",
+        "Last Updated": "2025-04-16",
+        "Score": "3.4"
+    },
+    {
+        "ID": "271",
+        "Price": "$552.27",
+        "Description": "A stylish, powerful office product. The Luxury Office Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Luxury Office Plus",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-15",
+        "Score": "1.4"
+    },
+    {
+        "ID": "272",
+        "Price": "$474.43",
+        "Description": "A durable, versatile health product. The Essential Health Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Essential Health Lite",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-14",
+        "Score": "3.5"
+    },
+    {
+        "ID": "273",
+        "Price": "$731.10",
+        "Description": "A versatile, powerful garden product. The Portable Garden Lite is designed for maximum performance and user satisfaction.",
+        "Product": "Portable Garden Lite",
+        "Brand": "PrecisionProducts",
+        "Last Updated": "2025-03-31",
+        "Score": "3.4"
+    },
+    {
+        "ID": "274",
+        "Price": "$895.25",
+        "Description": "A high-quality, efficient sports product. The Classic Sports System is designed for maximum performance and user satisfaction.",
+        "Product": "Classic Sports System",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-05",
+        "Score": "2.0"
+    },
+    {
+        "ID": "275",
+        "Price": "$448.33",
+        "Description": "A professional, compact garden product. The Budget Garden System is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Garden System",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-11",
+        "Score": "2.1"
+    },
+    {
+        "ID": "276",
+        "Price": "$708.12",
+        "Description": "A durable, affordable clothing product. The Budget Clothing Max is designed for maximum performance and user satisfaction.",
+        "Product": "Budget Clothing Max",
+        "Brand": "QualityCraft",
+        "Last Updated": "2025-04-25",
+        "Score": "3.2"
+    },
+    {
+        "ID": "277",
+        "Price": "$375.16",
+        "Description": "A eco-friendly, versatile toys product. The Professional Toys Collection is designed for maximum performance and user satisfaction.",
+        "Product": "Professional Toys Collection",
+        "Brand": "PrimeBrands",
+        "Last Updated": "2025-04-27",
+        "Score": "5.0"
+    },
+    {
+        "ID": "278",
+        "Price": "$685.51",
+        "Description": "A innovative, professional automotive product. The Innovative Automotive Pro is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Automotive Pro",
+        "Brand": "ValueCreators",
+        "Last Updated": "2025-04-07",
+        "Score": "2.1"
+    },
+    {
+        "ID": "279",
+        "Price": "$277.55",
+        "Description": "A eco-friendly, affordable office product. The Innovative Office Plus is designed for maximum performance and user satisfaction.",
+        "Product": "Innovative Office Plus",
+        "Brand": "MegaManufacturing",
+        "Last Updated": "2025-04-14",
         "Score": "4.8"
     }
 ]
